@@ -11,12 +11,14 @@
         "by-sea": "You can also opt for ferry services which is an excellent way of commuting. You can take a ferry from Mumbai to Panaji and easily reach Goa.",
     },
     "attractions": "Beaches like Vagator, Calangute, Anjuna, Colva, & Benaulim, Fort Aguada, Church of Mae De Deus, Basilica of Bom Jesus, Temple of Bodgeshwar, Dudhsagar Waterfalls, St Xavier’s Church, Grand Island (for watersports), Deltin Royale Casino and clubs like Cafe Mambos,Titos, LPK (Love Passion Karma), SinQ, & Club Cubana.",
-    "things-to-do": "Take the famous cruise from Mumbai to Goa.",
-    "events": "Sunburn Festival in December",
-    "water-sports": "Kneeboarding, Kayaking, Wakeboarding, Windsurfing, Scuba Diving, White Water Rafting",
-    "famous-markets": "Anjuna Flea Market, Panjim Market, Mackie’s Night Bazaar, Saturday Market",
-    "resorts": "Estrela Do Mar Beach Resort, Resort Rio"
-},
+    "things-to-do": [
+        "Take the famous cruise from Mumbai to Goa.",
+        "Events like Sunburn Festival in December",
+        "Water Sports available are Kneeboarding, Kayaking, Wakeboarding, Windsurfing, Scuba Diving, White Water Rafting",
+        "Few famous markets in Goa are Anjuna Flea Market, Panjim Market, Mackie’s Night Bazaar, Saturday Market",
+        "Few best resorts Estrela Do Mar Beach Resort, Resort Rio"
+    ]
+}
 {
     "place": "Mcleodganj",
     "title": "Mcleodganj – Heaven Amidst The Hills",
@@ -31,21 +33,23 @@
     "attractions": "Kangra Fort, Bhagsunath Temple, Bhagsu Falls, Namgyal Monastery, Dalai Lama Temple complex, HPCA Stadium, tea plantations of Kangra valley, and Triund trek",
     "restaurants": "Nick’s Italian Kitchen, Lung Ta Japanese Restaurant"
 }
-3. Srinagar – The Gem Of Kashmir
-Beautiful valleys of Kashmir
-
-
-If you’re in your twenties, it’s time to add Kashmir to your list of best places to visit in India. If there is heaven on earth, this it is! Experience its charismatic charm before the natural hits and turmoil spoils it all. And when would be a better time to explore flood-hit, terror-stricken heaven on earth if not now?!
-
-"best-time-to-visit": April to October
-"how-to-reach": "by-air": Srinagar has its own airport.
-"by-rail": The Srinagar Railway Station is under construction. Till then, passengers can take a train to Udhampur Railway Station(229 km from Srinagar)
-"by-road": Unless you are traveling from a city of Jammu & Kashmir, road is not a preferred way to reach Srinagar.
-"attractions": Dal Lake (boating in shikaras & nightstays in houseboats), Nishat Bagh, Shalimar Bagh, Tomb of Zin-ul-Abidin, Jama Masjid, Hazratbal Mosque, and Shankaracharya Hill, Pari mahal, Indira Gandhi Memorial Tulip Garden
-"restaurants": Mughal Darbar, Cafe De Linz
-
-Famous Lakes In Srinagar: Nagin lake, Dal lake
-
+{
+    "place": "Srinagar",
+    "title": "Srinagar – The Gem Of Kashmir",
+    "state": "Jammu and Kashmir",
+    "description": "If you’re in your twenties, it’s time to add Kashmir to your list of best places to visit in India. If there is heaven on earth, this it is! Experience its charismatic charm before the natural hits and turmoil spoils it all. And when would be a better time to explore flood-hit, terror-stricken heaven on earth if not now.",
+    "best-time-to-visit": "April to October",
+    "how-to-reach": {
+        "by-air": "Srinagar has its own airport.",
+        "by-rail": "The Srinagar Railway Station is under construction. Till then, passengers can take a train to Udhampur Railway Station(229 km from Srinagar)",
+        "by-road": "Unless you are traveling from a city of Jammu & Kashmir, road is not a preferred way to reach Srinagar.",
+    },
+    "attractions": "Dal Lake (boating in shikaras & nightstays in houseboats), Nishat Bagh, Shalimar Bagh, Tomb of Zin-ul-Abidin, Jama Masjid, Hazratbal Mosque, and Shankaracharya Hill, Pari mahal, Indira Gandhi Memorial Tulip Garden",
+    "restaurants": "Mughal Darbar, Cafe De Linz",
+    "things-to-do": [
+        "Famous Lakes In Srinagar: Nagin lake, Dal lake"
+    ]
+}
 4. Andaman – The Beach Haven
 Andaman has to be on your list of places to visit in India
 
