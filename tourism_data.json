@@ -88,51 +88,45 @@
 }
 
 
-6. Binsar – Explore The Realms Of Wildlife
-Trek in the jungle trails and spot the myriad wildlife of Binsar
-
-
-Peace. Jungles. Heights. Chills. Wildlife. All you wildlife enthusiasts out there head to Binsar – one of the rising tourist destinations in India located in the heart of Kumaoni region of Almora for an incredible trip of your lifetime.
-
-"best-time-to-visit": October to November
-"how-to-reach": "by-air": There’s a domestic airport in Pantnagar,
-152 km from Binsar.
-"by-rail": Kathgodam Railway Station,
-119 km from Binsar, is the nearest railway head.
-"by-road": Buses connect the town with all major neighboring areas.
-"attractions": Zero Point, Pariyadeva Pashan, Mary Budden Estate, Binsar Wildlife Sanctuary, Bineshwar Mahadev Temple, and more.
-
-"Wildlife": Barking deer, himalayan beer, leopard, flying squirrel, chital and porcupine are some of the species of animals found here
-
-"average-temperature": 19.8 degree celsius (Max.) and 6.5 degree celsius (Min.)
-
-"restaurants": Baba cake and Dolma Restaurant are some of the places you can dine at in Binsar
-
-"Camping": there are many camping sites available in this area and you are required to book in advance as they’re full during peak season like the month of June and January
-
-"Jeep safari": There are many companies offering jeep safaris of Binsar Wildlife Sanctuary that you can book in advance and surely worth trying
+{
+    "place": "Binsar",
+    "title": "Binsar – Explore The Realms Of Wildlife",
+    "state": "Uttarakhand",
+    "description": "Peace. Jungles. Heights. Chills. Wildlife. All you wildlife enthusiasts out there head to Binsar – one of the rising tourist destinations in India located in the heart of Kumaoni region of Almora for an incredible trip of your lifetime.",
+    "best-time-to-visit": "October to November",
+    "how-to-reach": {
+        "by-air": "There’s a domestic airport in Pantnagar, 152 km from Binsar.",
+        "by-rail": "Kathgodam Railway Station, 119 km from Binsar, is the nearest railway head.",
+        "by-road": "Buses connect the town with all major neighboring areas."
+    },
+    "attractions": "Zero Point, Pariyadeva Pashan, Mary Budden Estate, Binsar Wildlife Sanctuary, Bineshwar Mahadev Temple, and more.",
+    "things-to-do": [
+        "Wildlife like Barking deer, himalayan beer, leopard, flying squirrel, chital and porcupine are some of the species of animals found here",
+        "There are many camping sites available in this area and you are required to book in advance as they’re full during peak season like the month of June and January",
+        "There are many companies offering jeep safaris of Binsar Wildlife Sanctuary that you can book in advance and surely worth trying"
+    ],
+    "average-temperature": "19.8 degree celsius (Max.) and 6.5 degree celsius (Min.)",
+    "restaurants": "Baba cake and Dolma Restaurant are some of the places you can dine at in Binsar"
+}
 
 
 
-7. Coorg – Walk Amidst The Coffee Plantations
-Coorg is amongst the best places to visit in India
-
-
-Coorg simply cannot be skipped from the list of best and safe places to visit in India. A quick getaway for many from Bangalore, this mesmerizing hill station in Karnataka is breathtakingly beautiful. It’s one of the top 10 places to visit in India and a visit here sure would heal you and energize you!
-
-"best-time-to-visit": October to March
-"how-to-reach": "by-air": The nearest domestic airport is in Mangalore,
-156 km away. The nearest international airport is the Kempegowda International Airport in Bengaluru,
-285 kilometres away.
-"by-rail": Mysore Junction,
-106 km away, is the nearest rail head.
-"by-road": The 238 km long road trip from Bangalore (Bengaluru) takes 5 hours 30 minutes.
-"attractions": Abbey Falls, Nalknad Palace, Barapole River, Brahmagiri Peak, Iruppu Falls, Namdroling Monastery, Nagarhole National Park, Microlight flight at Chelavara, ziplining, and angling in River Kaveri
-
-"average-temperature": 29 degree celsius
-
-"restaurants": Coorg cuisine, Raintree restaurant
-
+{
+    "place": "Coorg",
+    "title": "Coorg – Walk Amidst The Coffee Plantations",
+    "city": "Madikeri",
+    "state": "Karnataka",
+    "description": "Coorg simply cannot be skipped from the list of best and safe places to visit in India. A quick getaway for many from Bangalore, this mesmerizing hill station in Karnataka is breathtakingly beautiful. It’s one of the top 10 places to visit in India and a visit here sure would heal you and energize you!",
+    "best-time-to-visit": "October to March",
+    "how-to-reach": {
+        "by-air": "The nearest domestic airport is in Mangalore,156 km away. The nearest international airport is the Kempegowda International Airport in Bengaluru,285 kilometres away.",
+        "by-rail": "Mysore Junction, 106 km away, is the nearest rail head.",
+        "by-road": "The 238 km long road trip from Bangalore (Bengaluru) takes 5 hours 30 minutes.",
+    },
+    "attractions": "Abbey Falls, Nalknad Palace, Barapole River, Brahmagiri Peak, Iruppu Falls, Namdroling Monastery, Nagarhole National Park, Microlight flight at Chelavara, ziplining, and angling in River Kaveri.",
+    "average-temperature": "29 degree celsius",
+    "restaurants": "Coorg cuisine, Raintree restaurant"
+}
 
 
 8. Kerala – The God’s Own Country
