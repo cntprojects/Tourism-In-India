@@ -1,4 +1,6 @@
 {
+    "place": "Goa",
+    "state": "Goa",
     "title": "Goa – The Official Party Hub",
     "description": "Unarguably, Goa has to be the amongst the first few dream places to visit in India in your twenties. Young and energetic! Amazing nightlife, a variety of booze, beach shacks and dirt cheap prices – Goa is one of the best holiday destinations in India that makes your trip memorable.",
     "Best time to visit": "November to February",
@@ -14,22 +16,21 @@
     "Water Sports": "Kneeboarding, Kayaking, Wakeboarding, Windsurfing, Scuba Diving, White Water Rafting",
     "Famous Markets": "Anjuna Flea Market, Panjim Market, Mackie’s Night Bazaar, Saturday Market",
     "Resorts": "Estrela Do Mar Beach Resort, Resort Rio"
-
+},
+{
+    "place": "Mcleodganj",
+    "title": "Mcleodganj – Heaven Amidst The Hills",
+    "state": "Himachal Pradesh",
+    "description": "The majestic mountains can call tourists to experience the best of what nature has to offer at Mcleodganj – one of the most beautiful places in India. Triund offers a spectacular view of the Dhauladhar ranges. Experience bliss while camping under billions of stars with your friends in Triund. This is among loveliest Indian destinations for camping, regardless of which season you’re coming in. No wonder it’s among the top 10 places to visit in India.",
+    "Best time to visit": "September to June",
+    "How to reach": {
+        "By Air": "Gaggal Airport (18 km away) is the nearest airport.",
+        "By Rail": "The nearest rail head is Pathankot Railway Station (89 km away)",
+        "By Road": "Numerous state government & private buses ply between Mcleodganj and various cities of north India like Delhi, Chandigarh, Dharamshala etc. on a regular basis. Passengers can take a bus till Mcleodganj bus stand and then hire a taxi."
+    },
+    "Attractions": "Kangra Fort, Bhagsunath Temple, Bhagsu Falls, Namgyal Monastery, Dalai Lama Temple complex, HPCA Stadium, tea plantations of Kangra valley, and Triund trek",
+    "Restaurants": "Nick’s Italian Kitchen, Lung Ta Japanese Restaurant"
 }
-Mcleodganj – Heaven Amidst The Hills
-Trek to Triund in Mcleodganj for an incredible experience
-
-
-The majestic mountains can call tourists to experience the best of what nature has to offer at Mcleodganj – one of the most beautiful places in India. Triund offers a spectacular view of the Dhauladhar ranges. Experience bliss while camping under billions of stars with your friends in Triund. This is among loveliest Indian destinations for camping, regardless of which season you’re coming in. No wonder it’s among the top 10 places to visit in India.
-
-"Best time to visit": September to June
-"How to reach": "By Air": Gaggal Airport (18 km away) is the nearest airport.
-"By Rail": The nearest rail head is Pathankot Railway Station (89 km away)
-"By Road": Numerous state government & private buses ply between Mcleodganj and various cities of north India like Delhi, Chandigarh, Dharamshala etc. on a regular basis. Passengers can take a bus till Mcleodganj bus stand and then hire a taxi.
-"Attractions": Kangra Fort, Bhagsunath Temple, Bhagsu Falls, Namgyal Monastery, Dalai Lama Temple complex, HPCA Stadium, tea plantations of Kangra valley, and Triund trek
-
-Must Visit "Restaurants": Nick’s Italian Kitchen, Lung Ta Japanese Restaurant
-
 3. Srinagar – The Gem Of Kashmir
 Beautiful valleys of Kashmir
 
@@ -95,9 +96,9 @@ Peace. Jungles. Heights. Chills. Wildlife. All you wildlife enthusiasts out ther
 
 "Best time to visit": October to November
 "How to reach": "By Air": There’s a domestic airport in Pantnagar,
-    152 km from Binsar.
+152 km from Binsar.
 "By Rail": Kathgodam Railway Station,
-    119 km from Binsar, is the nearest railway head.
+119 km from Binsar, is the nearest railway head.
 "By Road": Buses connect the town with all major neighboring areas.
 "Attractions": Zero Point, Pariyadeva Pashan, Mary Budden Estate, Binsar Wildlife Sanctuary, Bineshwar Mahadev Temple, and more.
 
@@ -121,10 +122,10 @@ Coorg simply cannot be skipped from the list of best and safe places to visit in
 
 "Best time to visit": October to March
 "How to reach": "By Air": The nearest domestic airport is in Mangalore,
-    156 km away. The nearest international airport is the Kempegowda International Airport in Bengaluru,
-    285 kilometres away.
+156 km away. The nearest international airport is the Kempegowda International Airport in Bengaluru,
+285 kilometres away.
 "By Rail": Mysore Junction,
-    106 km away, is the nearest rail head.
+106 km away, is the nearest rail head.
 "By Road": The 238 km long road trip from Bangalore (Bengaluru) takes 5 hours 30 minutes.
 "Attractions": Abbey Falls, Nalknad Palace, Barapole River, Brahmagiri Peak, Iruppu Falls, Namdroling Monastery, Nagarhole National Park, Microlight flight at Chelavara, ziplining, and angling in River Kaveri
 
@@ -149,7 +150,7 @@ Alappuzha Beach, Krishnapuram Palace, Kumarakom bird sanctuary, Marari Beach, Re
 TATA Tea Museum, Meesapulimala, Blossom Park, Pothamedu ViewPoint, Attukal Waterfalls, Cheeyappara Waterfalls, Kundala Lake, Mattupetty Dam, Anamudi, and Eravikulam National Park
 Kumarakom Bird Sanctuary, Kumarakom Backwaters, Aruvikkuzhi waterfall, Thirunakkara Mahadeva Temple, Vembanad Lake, Kumarakom Beach, and Pathiramanal Island
 Meenmutty Waterfalls, Chembra Peak,
-    9 Hairpin Curves, Muthanga Wildlife Sanctuary, Ekkadal Caves, Bathery Jain Temple, Neelimala View Point, and Pookot Lake
+9 Hairpin Curves, Muthanga Wildlife Sanctuary, Ekkadal Caves, Bathery Jain Temple, Neelimala View Point, and Pookot Lake
 Periyar Wildlife Sanctuary, Mangla Devi Temple, Abraham’s Spice Garden, Murikkady, Kadathanadan Kalari Centre, Chellarkovil, Kumily, and Deepa World Spice & Ayurvedic Garden
 Lighthouse Beach, Samudra Beach, Thiruvallam Parasurama Temple, Vizhinjam Marine Aquarium, Halcyon Castle, Akkulam Lake, Jama Masjid, Vellayani Lake, Karamana River, and Rock Cut Caves
 Bekal Fort, Ananthapura Temple, Valiyaparamba Backwaters, Bekal Beach, Mallikarjuna Temple, Chandragiri Fort, Kappil Beach, Nileswaram, Bekal Hole Aqua Park, and Pallikere Beach
@@ -202,7 +203,7 @@ Kutch is a must visit place in India before you turn Travel to the no man’s la
 
 "Best time to visit": November to February
 "How to reach": "By Air": Bhuj Airport,
-    69 km away, is the nearest air connect.
+69 km away, is the nearest air connect.
 "By Rail": Bhuj Railway Station is 50 km away from Kutch.
 "Attractions": Prag Mahal, Kalo Dungar, Kutch Museum, Archaeological Museum, Mandvi Beach, White Desert, Aina Mahal, and more.
 
@@ -238,7 +239,7 @@ Stay set to be overwhelmed by the sceneries, flora, and fauna of the Dibru Saikh
 
 "Best time to visit": October to April
 "How to reach": "By Air": Mohanbari in Dibrugarh,
-    40 km away, is the nearest domestic airport. Lokpriya Gopinath Bordoloi International Airport at Guwahati is 510 km away.
+40 km away, is the nearest domestic airport. Lokpriya Gopinath Bordoloi International Airport at Guwahati is 510 km away.
 "By Rail": New Tinsukia Railway Station is 12 km away.
 "Attractions": Kaziranga National Park, Manas National Park, Kamakhya Temple, Srimanta Sankardev Kalakshetra, Assam State Museum, and more.
 
@@ -254,9 +255,9 @@ With bursting energy and enthusiasm, twenties is the best time to enjoy thrill a
 
 "Best time to visit": September to November and February to June
 "How to reach": "By Air": Jolly Grant Airport in Dehradun,
-    20 km from Rishikesh, is the nearest air connect.
+20 km from Rishikesh, is the nearest air connect.
 "By Rail": Haridwar Junction,
-    21 km from Rishikesh, is the nearest rail head.
+21 km from Rishikesh, is the nearest rail head.
 "By Road": It is well-connected by road to major cities, including Haridwar (21 km away) and Delhi (229 km away).
 "Attractions": Rajaji National Park, Lakshman Jhula, Neelkanth Mahadev Temple, Parmarth Niketan, Ram Jhula, Shivpuri River Rafting Point, and more.
 
@@ -281,7 +282,7 @@ Revisit childhood by hopping on the colorful toy train from Kalka to Shimla as i
 "Average Temperature": 22 degree celsius
 
 "Restaurants": Cafe Sol,
-    45 The Central
+45 The Central
 
 
 Tirthan Valley – The Adventure Hub Of Himachal
@@ -396,7 +397,7 @@ Mist floats over the Valley of Flowers
 
 
 The Valley of Flowers in Uttarakhand is carpeted with over 300 flower species, making it among paradisiacal places to travel in India. This is a UNESCO World Heritage Site, located at an altitude of 3,
-    858 meters above the sea level. Today, this heavenly hideout is in the bucket list of avid travelers, and trekkers too; owing to its treacherous yet fascinating route. The Valley of Flowers trek is taken by both beginners and professionals and is awaited through the year.
+858 meters above the sea level. Today, this heavenly hideout is in the bucket list of avid travelers, and trekkers too; owing to its treacherous yet fascinating route. The Valley of Flowers trek is taken by both beginners and professionals and is awaited through the year.
 
 "Best time to visit": July to September
 "How to reach": "By Air": Nearest Airport to Valley of Flowers is Jolly Grant Airport, Dehradun This airport is connected to major cities like Delhi.
@@ -538,7 +539,7 @@ The only time when the entire city gathers together to celebrate the much lauded
 
 "Best time to visit": November to February
 "How to reach": "By Air": Netaji Subhash Chandra Bose International Airport is situated at Dumdum,
-    15 km from the main city.
+15 km from the main city.
 "By Rail": Howrah and Sealdah are the two main railway junctions in Kolkata that connect the city to several major cities in the country.
 "Attractions": Victoria Memorial, Howrah Bridge, Indian Museum, Dakshineswar Kali Temple, Eden Gardens Cricket Stadium, Kalighat Kali Temple, Birla Industrial & Technological Museum, Birla Planetarium, and St. Paul’s Cathedral
 
@@ -571,7 +572,7 @@ Much famed as the Scotland of the East, Meghalaya is one of the refreshing holid
 
 "Best time to visit": March to July
 "How to reach": "By Air": Lokpriya Gopinath Bordoloi International Airport at Guwahati in Assam (118 km from Shillong, the capital of Meghalaya) is the nearest international airport. Umroi Airport at Umroi,
-    30 km from Shillong, is the nearest domestic airport.
+30 km from Shillong, is the nearest domestic airport.
 "By Rail": Mendipathar railway station is located in Resubelpara Municipal Board Jurisdiction of Meghalaya at a distance of 225 km from Shillong. However, the Guwahati Junction in Assam is the nearest rail head with good connectivity to other cities of India.
 "Attractions": Umiam Lake, Nohkalikai Falls, Elephant Falls, Seven Sisters Falls, Shillong View Point, Spread Eagle Falls, Wah Umngot River, Nohwet Living Root Bridge, Kynrem falls, Khasi Hills, Khoh Ramhah or Motrop (Giant conical rock), and Garo Hills
 
@@ -603,7 +604,7 @@ Tourists across the world visit India just to witness the spectacular symbol of 
 
 "Best time to visit": April to October
 "How to reach": "By Air": Kheria airport,
-    13 km away from Agra, is a seasonal commercial airport and is connected only by Air India flights from New Delhi.
+13 km away from Agra, is a seasonal commercial airport and is connected only by Air India flights from New Delhi.
 "By Rail": Agra Cantt Station (the main station), Agra Fort Railway Station, Raja ki Mandi, Agra City, and Idgah Railway Station are well-connected by a network of trains to cities like Delhi, Jaipur, Gwalior, Jhansi, Kolkata, Mumbai, and Chennai.
 "By Road": Agra has two major interstate bus terminals called Idgah Bus Stand and ISBT that connect it to cities like Delhi, Jaipur, Gwalior, Lucknow, & Kanpur.
 "Attractions": Taj Mahal, Agra Fort, Tomb of I’timād-ud-Daulah, Mehtab Bagh, Jama Masjid, Guru ka Tal, Tomb of Akbar the Great, Chini Ka Rauza, Moti Masjid, Fatehpur Sikri, Dilli Gate, Great gate (Darwaza i rauza), Amar Singh Gate, Kaanch Mahal, and Sikandra
@@ -723,9 +724,9 @@ Travel to the historical land which serves as a home to many age-old Hindu templ
 
 "Best time to visit": September to March
 "How to reach": "By Air": Bhubaneswar airport,
-    62 km from Konark, is connected by frequent flights to numerous major cities India including Chennai, Kolkata, Delhi, and Hyderabad.
+62 km from Konark, is connected by frequent flights to numerous major cities India including Chennai, Kolkata, Delhi, and Hyderabad.
 "By Rail": Puri Railway Station,
-    36 km away, is connected to all major cities.
+36 km away, is connected to all major cities.
 "Attractions": Konark Sun Temple, Chilika Lake, Nandankanan Zoological Park, Puri Beach, Simlipal National Park, and Lingaraja Temple.
 
 
@@ -848,7 +849,7 @@ Khajjiar Valley
 
 
 Khajjiar is a small hilltown in Himachal Pradesh which is blessed with an abundance of scenic beautiful. Situated at an altitude of 6,
-    500 feet, this place features vast dense forests, lakes and wide pasture lands. The town is known for the picturesque Khajjiar Lake, which is surrounded by forests of cedar trees. Another popular pilgrimage and tourist spot in Khajjiar is the Khajji Nag Temple, a 12th century shrine that worships a serpent deity. There are some really interesting adventure activities including paragliding, zorbing and horse-riding that you can enjoy in Khajjiar.
+500 feet, this place features vast dense forests, lakes and wide pasture lands. The town is known for the picturesque Khajjiar Lake, which is surrounded by forests of cedar trees. Another popular pilgrimage and tourist spot in Khajjiar is the Khajji Nag Temple, a 12th century shrine that worships a serpent deity. There are some really interesting adventure activities including paragliding, zorbing and horse-riding that you can enjoy in Khajjiar.
 
 "Best time to visit": Throughout the year, especially summer (April-June). January and February may see heavy rainfall and snowfall.
 "How to reach": "By Air": Nearest airport is Gaggal airport (120 km) in Dharamshala
@@ -877,7 +878,7 @@ Naini Lake
 
 
 Located at an elevation of 2,
-    000m, Nainital is a resort town in the Kumaon Hills of Uttarakhand. The place gets its name from a lake called ‘Naini Lake’ around which the whole town is established. The lake is popular for boating scenes and has an ancient Devi Hindu Temple on its northern shore. Nainital has a pleasant climate throughout the year. Surrounded by many snow-capped hills and having a number of lakes in its boundary, there are a plethora of beautiful sights that you can enjoy here.
+000m, Nainital is a resort town in the Kumaon Hills of Uttarakhand. The place gets its name from a lake called ‘Naini Lake’ around which the whole town is established. The lake is popular for boating scenes and has an ancient Devi Hindu Temple on its northern shore. Nainital has a pleasant climate throughout the year. Surrounded by many snow-capped hills and having a number of lakes in its boundary, there are a plethora of beautiful sights that you can enjoy here.
 
 "Best time to visit": March to June
 "How to reach": "By Air": Pantnagar Airport (72 km) is the nearest airport to Nainital.
@@ -890,7 +891,7 @@ Lakshadweep island
 
 
 The Indian islands, Lakshadweep is an archipelago (group) of 36 islands which consists of 12 atolls,
-    3 reefs and 5 submerged banks. This is one of the most popular tropical island destinations and the smallest Union Territory in India. Only some islands of this archipelago are inhabited and just a few are open to the visitors. But the pristine beaches, azure waters, beach resorts and water adventure sports make Lakshadweep a travel-must. Kavaratti is one of the most developed islands and is popular for beautifully decorated mosques.
+3 reefs and 5 submerged banks. This is one of the most popular tropical island destinations and the smallest Union Territory in India. Only some islands of this archipelago are inhabited and just a few are open to the visitors. But the pristine beaches, azure waters, beach resorts and water adventure sports make Lakshadweep a travel-must. Kavaratti is one of the most developed islands and is popular for beautifully decorated mosques.
 
 "Best time to visit": September to May
 "How to reach": "By Air": The Cochin International Airport connects Lakshadweep to the mainland
@@ -914,7 +915,7 @@ Spiti Valley
 
 
 Located at altitude of 12,
-    500 feet above the sea level, Spiti Valley is one of the most sought after travel destinations in Himachal Pradesh. ‘Spiti’ means ‘the middle land’. The region is characterized by winding roads, wide valleys, arid deserts and snow-capped mountains. The clear and open sky in Spiti will leave you spellbound while you stargaze in the night. The valley has some of the oldest monasteries that you that add to the charm of this mystic region. Spiti is also a trekking hotspot popular among the adventure enthusiasts.
+500 feet above the sea level, Spiti Valley is one of the most sought after travel destinations in Himachal Pradesh. ‘Spiti’ means ‘the middle land’. The region is characterized by winding roads, wide valleys, arid deserts and snow-capped mountains. The clear and open sky in Spiti will leave you spellbound while you stargaze in the night. The valley has some of the oldest monasteries that you that add to the charm of this mystic region. Spiti is also a trekking hotspot popular among the adventure enthusiasts.
 
 "Best time to visit": Mid May to Mid October
 "How to reach": "By Air": The nearest airport to Spiti Valley is in Bhuntar (245 km) near Kullu.
@@ -1026,7 +1027,7 @@ Tawang’s landscape is adorned with massive rocky yet green mountains, group of
 
 "How to reach": "By Air": The nearest airport from Tawang is Salonibari Airport, at a distance of 315 km.
 "By Rail": The nearest railhead is Tezpur Railway Station,
-    385 km away.
+385 km away.
 "By Road": Tawang is 1404 km away from Kolkata, nearest major city from Tawang. Make sure you make sufficient stops enroute.
 "Attractions": Tawang Monastery, Nuranang Waterfall, Tawang War Memorial
 
@@ -1038,7 +1039,7 @@ A pilgrimage center for Hindus and Sikhs, Manikaran is most popular for its hot 
 
 "How to reach": "By Air": Bhuntar airport is 24 km away from Manikaran.
 "By Rail": The nearest railhead is Summer Hill Railway Station,
-    106 km away.
+106 km away.
 "By Road": The best way to reach Manikaran from Pathankot is to go in a bus till Bhuntar and then take a local bus.
 "Attractions": Grahan Street, Chalal Trek Trail, Gurudwara Shri Manikaran Sahib
 
@@ -1073,7 +1074,7 @@ A lovely cantonment hill-town in Uttarakhand, Ranikhet is also known as Queen’
 "How to reach": "By Air": The nearest airport from Ranikhet is Pantnagar Airport, at a distance of 110 km.
 "By Rail": Kathgodam Railway Station is the nearest major railhead near Ranikhet. Both are located 75 km away from each other.
 "By Road": Nearest major city from Ranikhet is Delhi,
-    355 km away from each other.
+355 km away from each other.
 "Attractions": Jhula Devi Temple, Mankameshwar Temple, Bhalu Dam
 
 Kausani – Perfect Getaway For Couples
