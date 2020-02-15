@@ -50,46 +50,42 @@
         "Famous Lakes In Srinagar: Nagin lake, Dal lake"
     ]
 }
-4. Andaman – The Beach Haven
-Andaman has to be on your list of places to visit in India
-
-
-Scared of water? Never swam? Maybe it’s time to beat the fear out of you and dive into the deep sea and overcome the fear of water and depths, ZNMD Style. Trust us, you’d be delighted at the sites underwater and it will keep you coming back for more. For aqua lovers, these famous tourist places in India which feel no less than a paradise!
-
-"best-time-to-visit": November to mid-May
-"how-to-reach": "by-air": Vir Savarkar Airport in Port Blair is the archipelago’s major airport.
-"by-sea": Ships ply between Haddo Wharf Port in Port Blair and cities of Chennai, Kolkata and Visakhapatnam.
-"attractions": Cellular Jail National Memorial, Radhanagar Beach, Rajiv Gandhi Water Sports Complex in Port Blair, Mahatma Gandhi Marine National Park, Chidiya Tapu, and watersports like scuba-diving, snorkeling, & parasailing
-
-"water-activities": Banana boat rides, snorkeling, parasailing, jet skiing, undersea walking, speed boating, scuba diving and sport fishing
-
-"andaman-cruises": You can board a cruise to Andaman from Chennai, Vizag and Kolkata
-
-"average-temperature": 24 degrees Celsius (Min.) and 37 degrees (Max.)
-
-"Beaches of Andaman": famous beaches include, Radhanagar beach, Corbyn’s Cove, Wandoor Beach and Merk Bay Beach
-
-
-5. Leh-Ladakh – The Biker’s Paradise
-Camp under the open sky in Ladakh
-
-
-Undoubtedly, Leh – Ladakh is on every travel enthusiasts list of dream places to visit in India before they turn Ride on the crazy winding roads, get stuck in the middle of nowhere, sleep with the locals, go trekking in Ladakh, and learn to be independent on the desert mountains as you undertake this adventurous journey in one of the best places in India.
-
-"best-time-to-visit": April to mid-May and mid-September to mid-October
-"how-to-reach": "by-air": Kushok Bakula Rimpochee Airport in Leh is the airport connecting the region to other places by-air.
-"by-rail": Jammu Tawi Railway Station (700 km from Ladakh) is the nearest rail head. From here, one can hire a cab or board a JKSRTC bus to Ladakh.
-"by-road": The most popular means of reach Ladakh remains to be road. Travelers can go on a bike/jeep ride to the destination. Bike trips from Delhi, Chandigarh, and Manali are most popular.
-"attractions": Zanskar Valley, Pangong Tso Lake, Khardung-La Pass, Spituk Gompa, and Hemis National Park
-
-"Rental bikes": You can rent a bike in Ladakh and it costs upto INR 2000 per day
-
-"average-temperature": 15 degree celsius (Min.) and 28 degree celsius (Max.)
-
-"Accommodation": Stok Palace Heritage hotel and Shakti Himalaya are some of the accommodations you can stay at in Ladakh
-
-"attractions": Nubra Valley, Khardung La, Shanti Stupa, Magnetic Hill, Pangong lake and leh palace are a must visit.
-
+{
+    "place": "Andaman",
+    "title": "Andaman – The Beach Haven",
+    "descriptiom": "Andaman has to be on your list of places to visit in India",
+    "best-time-to-visit": "November to mid-May",
+    "how-to-reach": {
+        "by-air": "Vir Savarkar Airport in Port Blair is the archipelago’s major airport.",
+        "by-sea": "Ships ply between Haddo Wharf Port in Port Blair and cities of Chennai, Kolkata and Visakhapatnam."
+    },
+    "attractions": "Cellular Jail National Memorial, Radhanagar Beach, Rajiv Gandhi Water Sports Complex in Port Blair, Mahatma Gandhi Marine National Park, Chidiya Tapu, and watersports like scuba-diving, snorkeling, & parasailing.",
+    "things-to-do": [
+        "Water activities like Banana boat rides, snorkeling, parasailing, jet skiing, undersea walking, speed boating, scuba diving and sport fishing.",
+        "You can board a cruise to Andaman from Chennai, Vizag and Kolkata",
+        "Famous beaches include, Radhanagar beach, Corbyn’s Cove, Wandoor Beach and Merk Bay Beach"
+    ],
+    "average-temperature": "24 degrees Celsius (Min.) and 37 degrees (Max.)"
+}
+{
+    "place": "Ladakh",
+    "title": "Leh-Ladakh – The Biker’s Paradise",
+    "state": "Jammu and Kashmir",
+    "description": "Undoubtedly, Leh – Ladakh is on every travel enthusiasts list of dream places to visit in India before they turn Ride on the crazy winding roads, get stuck in the middle of nowhere, sleep with the locals, go trekking in Ladakh, and learn to be independent on the desert mountains as you undertake this adventurous journey in one of the best places in India.",
+    "best-time-to-visit": "April to mid-May and mid-September to mid-October",
+    "how-to-reach": {
+        "by-air": "Kushok Bakula Rimpochee Airport in Leh is the airport connecting the region to other places by-air.",
+        "by-rail": "Jammu Tawi Railway Station (700 km from Ladakh) is the nearest rail head. From here, one can hire a cab or board a JKSRTC bus to Ladakh.",
+        "by-road": "The most popular means of reach Ladakh remains to be road. Travelers can go on a bike/jeep ride to the destination. Bike trips from Delhi, Chandigarh, and Manali are most popular."
+    },
+    "attractions": "Zanskar Valley, Pangong Tso Lake, Khardung-La Pass, Spituk Gompa, and Hemis National Park",
+    "things-to-do": [
+        "You can rent a bike in Ladakh and it costs upto INR 2000 per day",
+        "Stok Palace Heritage hotel and Shakti Himalaya are some of the accommodations you can stay at in Ladakh"
+    ],
+    "average-temperature": "15 degree celsius (Min.) and 28 degree celsius (Max.)",
+    "attractions": "Nubra Valley, Khardung La, Shanti Stupa, Magnetic Hill, Pangong lake and leh palace are a must visit."
+}
 
 
 6. Binsar – Explore The Realms Of Wildlife
