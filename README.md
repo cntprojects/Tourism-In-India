@@ -1,5 +1,12 @@
 # Tourism-In-India
 
+## Instructions
+  * Only use the standard keys.
+  * Please add information about relevant city, state etc.
+  * Change sentences to meet grammar rules wherever neccessary.
+  * This is not a final schema, there could be changes in future.
+  
+
 ### Standard Keys:
 * place 
 * state 
