@@ -7,6 +7,7 @@
   * This is not a final schema, there could be changes in future.
   * Don't forget to remove the alt image info
   
+## Validate your JSON [here](https://jsonlint.com/)
 
 ### Standard Keys:
 * place 
