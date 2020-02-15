@@ -9,6 +9,7 @@
 * by-air 
 * by-rail
 * by-road
+* by-train
 * by-sea
 * attractions 
 * things-to-do
@@ -18,3 +19,4 @@
 * resorts 
 * restaurants
 * best-time-to-visit
+* average-temperature

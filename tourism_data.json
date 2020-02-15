@@ -54,14 +54,14 @@ Scared of water? Never swam? Maybe it’s time to beat the fear out of you and d
 
 "best-time-to-visit": November to mid-May
 "how-to-reach": "by-air": Vir Savarkar Airport in Port Blair is the archipelago’s major airport.
-"By Sea": Ships ply between Haddo Wharf Port in Port Blair and cities of Chennai, Kolkata and Visakhapatnam.
+"by-sea": Ships ply between Haddo Wharf Port in Port Blair and cities of Chennai, Kolkata and Visakhapatnam.
 "attractions": Cellular Jail National Memorial, Radhanagar Beach, Rajiv Gandhi Water Sports Complex in Port Blair, Mahatma Gandhi Marine National Park, Chidiya Tapu, and watersports like scuba-diving, snorkeling, & parasailing
 
-"Water Activities": Banana boat rides, snorkeling, parasailing, jet skiing, undersea walking, speed boating, scuba diving and sport fishing
+"water-activities": Banana boat rides, snorkeling, parasailing, jet skiing, undersea walking, speed boating, scuba diving and sport fishing
 
-"Andaman Cruises": You can board a cruise to Andaman from Chennai, Vizag and Kolkata
+"andaman-cruises": You can board a cruise to Andaman from Chennai, Vizag and Kolkata
 
-"Average Temperature": 24 degrees Celsius (Min.) and 37 degrees (Max.)
+"average-temperature": 24 degrees Celsius (Min.) and 37 degrees (Max.)
 
 "Beaches of Andaman": famous beaches include, Radhanagar beach, Corbyn’s Cove, Wandoor Beach and Merk Bay Beach
 
@@ -80,7 +80,7 @@ Undoubtedly, Leh – Ladakh is on every travel enthusiasts list of dream places 
 
 "Rental bikes": You can rent a bike in Ladakh and it costs upto INR 2000 per day
 
-"Average temperature": 15 degree celsius (Min.) and 28 degree celsius (Max.)
+"average-temperature": 15 degree celsius (Min.) and 28 degree celsius (Max.)
 
 "Accommodation": Stok Palace Heritage hotel and Shakti Himalaya are some of the accommodations you can stay at in Ladakh
 
@@ -104,7 +104,7 @@ Peace. Jungles. Heights. Chills. Wildlife. All you wildlife enthusiasts out ther
 
 "Wildlife": Barking deer, himalayan beer, leopard, flying squirrel, chital and porcupine are some of the species of animals found here
 
-"Average Temperature": 19.8 degree celsius (Max.) and 6.5 degree celsius (Min.)
+"average-temperature": 19.8 degree celsius (Max.) and 6.5 degree celsius (Min.)
 
 "restaurants": Baba cake and Dolma Restaurant are some of the places you can dine at in Binsar
 
@@ -129,7 +129,7 @@ Coorg simply cannot be skipped from the list of best and safe places to visit in
 "by-road": The 238 km long road trip from Bangalore (Bengaluru) takes 5 hours 30 minutes.
 "attractions": Abbey Falls, Nalknad Palace, Barapole River, Brahmagiri Peak, Iruppu Falls, Namdroling Monastery, Nagarhole National Park, Microlight flight at Chelavara, ziplining, and angling in River Kaveri
 
-"Average Temperature": 29 degree celsius
+"average-temperature": 29 degree celsius
 
 "restaurants": Coorg cuisine, Raintree restaurant
 
@@ -156,7 +156,7 @@ Lighthouse Beach, Samudra Beach, Thiruvallam Parasurama Temple, Vizhinjam Marine
 Bekal Fort, Ananthapura Temple, Valiyaparamba Backwaters, Bekal Beach, Mallikarjuna Temple, Chandragiri Fort, Kappil Beach, Nileswaram, Bekal Hole Aqua Park, and Pallikere Beach
 Mananchira, Conolly Canal, Hilite Mall, Kallayi, Tali Temple, Kappad Beach, Kozhikode Beach, Thusharagiri Waterfalls, Sargaalaya, Payyoli Beach, Kozhippara Falls, and Matri Dei Cathedral
 Varkala Beach, Janardhan Temple, Sivagiri Muth, Kappil Lake, Papanasam Beach, Janardan Swami Temple, Vishnu Temple, Anjengo Fort, Sarkara Devi Temple, Varkala Tunnel, and Kaduvayil Thangal Dargah
-"Average Temperature": 28 degree celsius
+"average-temperature": 28 degree celsius
 
 "restaurants": The Riceboat, Paragon restaurant
 
@@ -173,7 +173,7 @@ With this rising adventure spot that offers endless opportunities to enjoy thril
 "by-rail": Located at a distance of 75 kms, Rishikesh railway station is the nearest railhead to Kanatal.
 "attractions": Kodia Jungle, Tehri Lake, Surkanda Devi temple, New Tehri Dam, and more.
 
-"Average Temperature": 25 degree celsius
+"average-temperature": 25 degree celsius
 
 "restaurants": Brothers cafe and restaurant, Chacha Sip & Dine
 
@@ -189,7 +189,7 @@ Here’s why every man should travel solo at least once in your life – Not onl
 "by-road": HRTC (Himachal Road Transport Corporation) runs regular buses from Delhi, Haryana, & Punjab and other Himachal cities like Pathankot, Shimla, Kangra, Solan, & Dharamsala.
 "attractions": Kheerganga peak, Malana village, Parvati river, Manikaran Sahib gurudwara, Jari, Bhuntar, and more.
 
-"Average Temperature": 16.8 degree celsius
+"average-temperature": 16.8 degree celsius
 
 "restaurants": The Evergreen, Moon Dance Cafe
 
@@ -207,7 +207,7 @@ Kutch is a must visit place in India before you turn Travel to the no man’s la
 "by-rail": Bhuj Railway Station is 50 km away from Kutch.
 "attractions": Prag Mahal, Kalo Dungar, Kutch Museum, Archaeological Museum, Mandvi Beach, White Desert, Aina Mahal, and more.
 
-"Average Temperature": 26.3 degree celsius
+"average-temperature": 26.3 degree celsius
 
 "restaurants": Noorani restaurant, Annapurna restaurant
 
@@ -225,7 +225,7 @@ Rising to fame post hosting the first ever paragliding world cup, Bir Billing so
 "by-road": Located in the heart of Himachal, Bir Billing is accessible by-road as many state-run and private buses run from the nearby cities of Delhi, Chandigarh, Manali, Shimla, and more.
 "attractions": Baijnath Shiv Temple, Billing Valley, Chamunda Devi Temple, Shiva Shrine, Ahju Fort, and more.
 
-"Average Temperature": 16.8 degree celsius
+"average-temperature": 16.8 degree celsius
 
 "restaurants": Zenwich restaurant, Glider’s Pizzeria
 
@@ -243,7 +243,7 @@ Stay set to be overwhelmed by the sceneries, flora, and fauna of the Dibru Saikh
 "by-rail": New Tinsukia Railway Station is 12 km away.
 "attractions": Kaziranga National Park, Manas National Park, Kamakhya Temple, Srimanta Sankardev Kalakshetra, Assam State Museum, and more.
 
-"Average Temperature": 23.2 degree celsius
+"average-temperature": 23.2 degree celsius
 
 "restaurants": Khorikaa, Paradise restaurant
 
@@ -261,7 +261,7 @@ With bursting energy and enthusiasm, twenties is the best time to enjoy thrill a
 "by-road": It is well-connected by-road to major cities, including Haridwar (21 km away) and Delhi (229 km away).
 "attractions": Rajaji National Park, Lakshman Jhula, Neelkanth Mahadev Temple, Parmarth Niketan, Ram Jhula, Shivpuri River Rafting Point, and more.
 
-"Average Temperature": 20 degree celsius
+"average-temperature": 20 degree celsius
 
 "restaurants": Bistro Nirvana, The Sitting Elephant
 
@@ -279,7 +279,7 @@ Revisit childhood by hopping on the colorful toy train from Kalka to Shimla as i
 "by-road": Many state-run and private buses run from the nearby cities of Delhi, Chandigarh, Manali, and Kullu that are well connected to Shimla via road.
 "attractions": Kufri, Mall Road, Chadwick Falls, Jakhu Temple, Annandale, Christ Church, Scandal Point, and more.
 
-"Average Temperature": 22 degree celsius
+"average-temperature": 22 degree celsius
 
 "restaurants": Cafe Sol,
 45 The Central
@@ -297,7 +297,7 @@ Striking a perfect balance between peace and adventure, Tirthan Valley is one to
 "by-road": One can easily embark on a scenic road trip from the nearby states of Delhi, Punjab and Haryana till Tirthan Valley via a car or a bus.
 "attractions": Great Himalayan National Park, Jalori Pass, Raghupur Fort, Saryolsar, Gushaini, Sojha, and more.
 
-"Average Temperature": 25 degree celsius
+"average-temperature": 25 degree celsius
 
 "restaurants": Sunshine Himalayan camp, Kaith Mud
 
@@ -316,7 +316,7 @@ One of the best national parks in India, Jim Corbett is famous for Indian tiger 
 "by-road": The national park is well connected by-roads to various destinations like Delhi and Dehradun.
 "attractions": Garjiya Devi Temple, Jim Corbett Museum, Corbett Falls, Corbett Tiger Reserve, Ramganga Dam, and more.
 
-"Average Temperature": 27 degree celsius
+"average-temperature": 27 degree celsius
 
 "restaurants": Safari Cafe & Homestay, Doaba’s Punjabi Dhaba
 
@@ -334,7 +334,7 @@ The most famous resort town nestled amidst the snow-capped mountains, Manali is 
 "by-road": Manali can be easily reach by-road via private cabs, cars, and state-run or private buses from the nearby cities of New Delhi, Chandigarh, Pathankot, Ambala, and so on.
 "attractions": Bhrigu Lake, Rohtang Pass, Solang Valley, Hidimba Devi Temple, Manu Temple, Great Himalayan National Park, Jogini Falls, and Tibetan Monastery.
 
-"Average Temperature": 15.1 degree celsius
+"average-temperature": 15.1 degree celsius
 
 "restaurants": Johnson’s cafe and hotel, Chopsticks restaurant
 
@@ -350,7 +350,7 @@ Udaipur is called the Venice of the East, but the different Rajasthani hues of t
 "by-road": One can easily find buses for reaching the city by-road, from cities like Jaisalmer, Jaipur and Delhi.
 "attractions": Lake Pichola, Jagdish Temple, City Palace, Jag Mandir, Gangaur Ghat, and Bagore ki Haweli
 
-"Average Temperature": 30 degree celsius
+"average-temperature": 30 degree celsius
 
 "restaurants": Khamma Ghani restaurant, Raaj Bagh restaurant
 
@@ -367,7 +367,7 @@ The Skiing Capital of India, Auli is one of the most beautiful places to travel 
 "by-road": For travelers coming via road, you can take buses heading towards Joshimath, as this place is well connected to many towns and cities of Uttarakhand. From here, you can easily get a taxi or bus for Auli.
 "attractions": Kuari Pass Trek, Vishnuprayag, Kalpeshwar, Sri Hemkunt Sahib, Gorson Bugyal, Pangarchulla Peak, and more.
 
-"Average Temperature": 4.3 degree celsius
+"average-temperature": 4.3 degree celsius
 
 "restaurants": Indra lodge and Inderlok, Saradeswari restaurant
 
@@ -386,7 +386,7 @@ Comprising a bit of the old and new, Mysore has risen from the status of a royal
 "by-road": Mysore has a very good road connectivity with the nearby cities of Bangalore, Chennai, Madurai, Coimbatore, and so on.
 "attractions": Mysore Palace, Somnathpur, Brindavan Gardens, Mysore Zoo, Chamundeshwari Temple, Karanji Lake, St. Philomena’s Church, and GRS Fantasy Park.
 
-"Average Temperature": 25 degree celsius
+"average-temperature": 25 degree celsius
 
 "restaurants": Gufha restaurant, Oyster Bay
 
@@ -405,7 +405,7 @@ The Valley of Flowers in Uttarakhand is carpeted with over 300 flower species, m
 "by-road": The Valley of Flowers if majorly accessed via roads and trekking routes. Govindghat on Badrinath Highway serves as base camp for trekkers coming here.
 "attractions": Govindghat, the National Park, Hemkund Sahib, Nanda Devi National Park, and Pushpawati River.
 
-"Average Temperature": 16 to 18 degree celsius
+"average-temperature": 16 to 18 degree celsius
 
 "restaurants": Bhavishay Kedar, Ghangaria, Hemkund Sahib
 
@@ -423,7 +423,7 @@ The Golden City of Rajasthan, Jaisalmer is surely one of the best cities to visi
 "by-road": One can easily reach Jaisalmer by-road via buses or cabs.
 "attractions": Jaisalmer Fort, Bada Bagh, Folklore Museum,Sam Sand Dunes and Desert Cultural Centre.
 
-"Average Temperature": 30 degree celsius
+"average-temperature": 30 degree celsius
 
 "restaurants":  Restaurant Romany, Milan restaurant, Cafe the Kaku
 
@@ -439,7 +439,7 @@ Jodhpur, or the Blue City of Rajasthan, will lure you with its massive hill fort
 "by-road": Similar to airways and railways, roadways too is smooth and easily accessible in this city
 "attractions": Umaid Bhavan Palace, Jaswant Thada, Mehrangarh Fort, Mandore Garden, and Balsamand Lake.
 
-"Average Temperature": 25 degree celsius
+"average-temperature": 25 degree celsius
 
 "restaurants": Indique restaurant, Kalinga restaurant
 
@@ -456,7 +456,7 @@ Located at a distance of about 49 kilometers towards the north of Mandi district
 "by-rail": Joginder Nagar is the nearest railway station to Mandi which is set at a distance of about 50 kilometers, and then one can take a cab from there and trek till Prashar Lake.
 "attractions": Mandi, Prashar Lake Trek, Three-tiered temple, Bhutnath Temple, and Barot.
 
-"Average Temperature": 20 to 25 degree celsius
+"average-temperature": 20 to 25 degree celsius
 
 "restaurants": Wazir Thakur restaurant
 
@@ -474,7 +474,7 @@ A quaint little town in the state of Uttarakhand, Mukteshwar is one of the famou
 "by-road": One can also reach the Mukteshwar easily by-road from the neighboring cities of Delhi, Chandigarh, Shimla, and Manali.
 "attractions": Mukteshwar Temple, Sitla, Chauthi Jaali, Admire Nanda Devi, and Mukteshwar Inspection Bungalow.
 
-"Average Temperature": 16 degree celsius
+"average-temperature": 16 degree celsius
 
 "restaurants": Alankar restaurant, Chirping tales cafe
 
@@ -492,7 +492,7 @@ Located at an elevation of about 2200 meters with Mussourie and Chamba as its bo
 "by-road": One can also reach the town of Dhanaulti easily via road from the nearby cities of Shimla, Delhi, Shimla, Chandigarh, and Manali.
 "attractions": The Eco Park, Thangdhar Camp, Surkanda Devi Temple, and Potato Farm.
 
-"Average Temperature": 20 degree celsius
+"average-temperature": 20 degree celsius
 
 "restaurants": Hill view restaurant, Snowlake restaurant
 
@@ -510,7 +510,7 @@ Varanasi may not be on the list of places to visit in India before you turn 30, 
 "by-road": State-run and private buses regularly ply between Varanasi and the nearby cities.
 "attractions": Assi Ghat, Dashashwamedh Ghat, Manmandir Ghat, Manikarnika Ghat, Kashi Vishwanath Temple, and Durga Temple
 
-"Average Temperature": 30 degree celsius
+"average-temperature": 30 degree celsius
 
 "restaurants": Canton Royale restaurant, Varanasi cafe & restaurant
 
@@ -526,7 +526,7 @@ The city that lets you live a carefree life and the one that never sleeps. Mumba
 "by-road": Most of the inter-Maharashtra buses arrive at Mumbai Central Bus Station. But the ones from Pune and Nasik arrive at the ASIAD bus stand near Dadar railway station.
 "attractions": Gateway of India, Haji Ali Dargah, Elephanta Caves & island, Siddhivinayak Temple, Essel World, Kanheri Caves, Rajabai Clock Tower, Kamala Nehru Park, Dr. Bhau Daji Lad Museum, Nehru Planetarium, Worli Fort, and Marine Drive
 
-"Average Temperature": 25 degree celsius
+"average-temperature": 25 degree celsius
 
 "restaurants": The table, Khyber restaurant, Yauatcha restaurant
 
@@ -543,7 +543,7 @@ The only time when the entire city gathers together to celebrate the much lauded
 "by-rail": Howrah and Sealdah are the two main railway junctions in Kolkata that connect the city to several major cities in the country.
 "attractions": Victoria Memorial, Howrah Bridge, Indian Museum, Dakshineswar Kali Temple, Eden Gardens Cricket Stadium, Kalighat Kali Temple, Birla Industrial & Technological Museum, Birla Planetarium, and St. Paul’s Cathedral
 
-"Average Temperature": 25 degree celsius
+"average-temperature": 25 degree celsius
 
 "restaurants": India restaurant, Arsalan restaurant
 
@@ -560,7 +560,7 @@ Enjoy your gateway to the city of Ghalib, Dilli. While you’re still young, exp
 "by-road": Delhi is well connected by bus to cities like Jaipur, Agra, Alwar, Chandigarh, Amritsar, Shimla, Manali, Dharamsala, Dehradun, and even Kathmandu. Commuters can get buses from Interstate Bus Terminals at Kashmiri Gate, Anand Vihar, & Sarai Kale Khan, and other spots like Majnu ka Tila & Bikaner House.
 "attractions": The Red Fort, Qutub Minar, Jama Masjid, Lotus Temple, Akshardham, Rashtrapati Bhavan, and Humayun’s Tomb.
 
-"Average Temperature": 25 to 34 degree celsius
+"average-temperature": 25 to 34 degree celsius
 
 
 
@@ -576,7 +576,7 @@ Much famed as the Scotland of the East, Meghalaya is one of the refreshing holid
 "by-rail": Mendipathar railway station is located in Resubelpara Municipal Board Jurisdiction of Meghalaya at a distance of 225 km from Shillong. However, the Guwahati Junction in Assam is the nearest rail head with good connectivity to other cities of India.
 "attractions": Umiam Lake, Nohkalikai Falls, Elephant Falls, Seven Sisters Falls, Shillong View Point, Spread Eagle Falls, Wah Umngot River, Nohwet Living Root Bridge, Kynrem falls, Khasi Hills, Khoh Ramhah or Motrop (Giant conical rock), and Garo Hills
 
-"Average Temperature": 17.1 degree celsius
+"average-temperature": 17.1 degree celsius
 
 
 
@@ -592,7 +592,7 @@ Life is not all about exploring the world. Feel the mystical essence of Buddhism
 "by-road": The cities of Sikkim are well-connected to Darjeeling (West Bengal) by good quality roads.
 "attractions": Nathu La, Hanuman Tok, Rumtek Monastery, Khecheopalri Lake, Tsomgo Lake, Phodong Monastery, & Teesta River in Gangtok, Yumthang Valley, Buddha Park of Ravangla, Kanchenjunga Falls, Lingdum Monastery, and Singshore Bridge
 
-"Average Temperature": 18 degree celsius
+"average-temperature": 18 degree celsius
 
 
 
@@ -609,7 +609,7 @@ Tourists across the world visit India just to witness the spectacular symbol of 
 "by-road": Agra has two major interstate bus terminals called Idgah Bus Stand and ISBT that connect it to cities like Delhi, Jaipur, Gwalior, Lucknow, & Kanpur.
 "attractions": Taj Mahal, Agra Fort, Tomb of I’timād-ud-Daulah, Mehtab Bagh, Jama Masjid, Guru ka Tal, Tomb of Akbar the Great, Chini Ka Rauza, Moti Masjid, Fatehpur Sikri, Dilli Gate, Great gate (Darwaza i rauza), Amar Singh Gate, Kaanch Mahal, and Sikandra
 
-"Average Temperature": 24 to 34 degree celsius
+"average-temperature": 24 to 34 degree celsius
 
 
 
@@ -622,7 +622,7 @@ Cherrapunji is a great sight for those who want to experience something surreal 
 "by-rail": Guwahati is the nearest railhead to Cherrapunji.
 "attractions": Nohkalikai Falls, Daiñthlen Falls, Thangkharang Park, Kynrem Falls, Mawsmai Cave, Seven Sisters Falls, and more.
 
-"Average Temperature": 17 to 24 degree celsius
+"average-temperature": 17 to 24 degree celsius
 
 
 
@@ -638,7 +638,7 @@ Other than the refreshing greens, magnificent views of the mountains, gushing ri
 "by-road": Dalhousie is well-connected to the neighboring cities via road and many state-run and private buses and cabs have good connectivity to this hill station.
 "attractions": Panch Pulla, Kalatop Wildlife Sanctuary, Satdhara Falls, Daikund Peak, Subhash Baoli, St. John’s Church, and Chamunda Devi Temple.
 
-"Average Temperature": 15 degree celsius
+"average-temperature": 15 degree celsius
 
 
 
@@ -654,7 +654,7 @@ Hampi’s world heritage site is amongst the must visit tour places in India. Kn
 "by-road": Hampi is one of the weekend getaways from Bangalore and is well connected to Hospet, Hassan, Mysore, and other nearby cities by-road.
 "attractions": Virupaksha Temple, Vijaya Vittala Temple, Matanga Hill, Hemakuta Hill Temple, Hazara Rama Temple, and Achyutaraya Temple.
 
-"Average Temperature": 27.3 degree celsius
+"average-temperature": 27.3 degree celsius
 
 
 
@@ -669,7 +669,7 @@ Jabalpur may not be on your list of best tourist places to see in India before y
 "by-rail": Jabalpur Junction is the nearest railway head.
 "attractions": Dhuandhar Falls, Marble Rocks, Rani Durgavati Museum, Madan Mahal, Dumna Nature Reserve Park, and Bhawartal Garden.
 
-"Average Temperature": 23 to 31 degree celsius
+"average-temperature": 23 to 31 degree celsius
 
 
 
@@ -685,7 +685,7 @@ Allow your spirit to soak in the raas-leela of Vrindavan. The place that celebra
 "by-road": Mathura is well-connected to Agra (49 km away), Delhi (182 km away), Vrindavan (14 km away), and other cities of North India.
 "attractions": Shri Krishna Janmabhoomi, Prem Mandir Vrindavan, Government Museum, Krishna Balaram Mandir, Vishram Ghat, Kans Quila, and Jama Mosque.
 
-"Average Temperature": 34.7 degree celsius
+"average-temperature": 34.7 degree celsius
 
 
 
@@ -699,7 +699,7 @@ Hyderabad is to India what New York is to USA. Owing much of its popularity to t
 "by-road": Many state-run and private buses run from nearby cities like Mumbai, Bangalore, and Chennai to Hyderabad on daily basis.
 "attractions": Charminar, Golconda, Ramoji Film City, Chowmahalla Palace, Salar Jung Museum, Makkah Masjid, and Purani Haveli.
 
-"Average Temperature": 22 to 31 degree celsius
+"average-temperature": 22 to 31 degree celsius
 
 
 
@@ -895,7 +895,7 @@ The Indian islands, Lakshadweep is an archipelago (group) of 36 islands which co
 
 "best-time-to-visit": September to May
 "how-to-reach": "by-air": The Cochin International Airport connects Lakshadweep to the mainland
-"By Sea":There are 7 passenger-ship services available from Cochin to Lakshadweep
+"by-sea":There are 7 passenger-ship services available from Cochin to Lakshadweep
 "attractions": Minicoy Island, Agatti Islands, Bangaram Island, Kalpeni Islands
 
 Chopta – A Small Green Paradise
@@ -1112,7 +1112,7 @@ How To Reach
 
 "attractions": Eravikulam National Park, Salim Ali Bird Sanctuary, Tea Plantations
 
-"Average Temperature": 19.4 degree celsius
+"average-temperature": 19.4 degree celsius
 
 "restaurants": Copper Castle, SN Restaurant, Sree Mahaveer Bhojanalaya Restaurant
 
@@ -1125,12 +1125,12 @@ Best Time To Visit: Late September to November and March to June
 How To Reach
 
 "by-air": The nearest airport is Bagdogra, West Bengal which is 124 kilometres away
-"By Train": The nearest rail head is New Jalpaiguri which is 148 kilometres away
+"by-train": The nearest rail head is New Jalpaiguri which is 148 kilometres away
 "by-road": Take a car
 
 "attractions": Nathu La Pass, Rumtek Monastery, MG Road
 
-"Average Temperature": 22 degree celsius
+"average-temperature": 22 degree celsius
 
 "restaurants": OSM Restro & Lounge, Taste Of Tibet
 
@@ -1141,11 +1141,11 @@ The capital of India, Delhi brims with all the hustle bustle for the entire day.
 Best Time To Visit: October To March
 How To Reach
 "by-air": The nearest airport is Indira Gandhi International Airport
-"By Train": There are 4 major railway junctions – Puraani Dilli, New Delhi, Hazrat Nizamuddin and Anand Vihar
+"by-train": There are 4 major railway junctions – Puraani Dilli, New Delhi, Hazrat Nizamuddin and Anand Vihar
 "by-road": The major bus terminals in Delhi are Kashmere Gate ISBT, Sarai Kale Khan ISBT, Anand Vihar ISBT, Mandi House and Majnu Ka Tila
 
 "attractions": Humayun’s Tomb, Qutub Minar, Red Fort, Akshardham Temple
-"Average Temperature": 7 Degree Celsius
+"average-temperature": 7 Degree Celsius
 "restaurants": Smokehouse Grill, Bikanervala Angan, Paranthe Wali Gali, All American Diner
 
 Kanha National Park – Amidst The Wildlife 
@@ -1155,9 +1155,9 @@ Situated at the central region of Madhya Pradesh, the Kanha National Park is qui
 Best Time To Visit: Mid-October to June
 How To Reach
 "by-air": There is no direct flight connectivity, The nearest is the Jabalpur airport which is located around 120 km away from Kanha National Park.
-"By Train": There is no direct train connectivity. Jabalpur Railway Station is the closest which is around 130 kms away from the national park.
+"by-train": There is no direct train connectivity. Jabalpur Railway Station is the closest which is around 130 kms away from the national park.
 "by-road": Buses are available at short intervals from the nearest city Mandla.
-"Average Temperature": 14 Degree Celsius
+"average-temperature": 14 Degree Celsius
 "restaurants": Mogli Resorts, Kanha Resort, Kanha Jungle Lodge
 
 Mussoorie – Tour To The Queen Of Hills 
@@ -1169,7 +1169,7 @@ How To Reach
 "by-air": The nearest airport from Mussoorie is the Jolly Grant Airport which is located 30 Kms away
 "by-road": The hill station is well-connected with the major cities by the roadways and one can also hire a taxi from Dehradun or New Delhi to Mussoorie.
 "attractions": Lal Tibba, Kempty Falls, Gun Hill
-"Average Temperature": 4 Degree Celsius
+"average-temperature": 4 Degree Celsius
 "restaurants": Tavern, Neelam, Casa Mia Bakery, Emily’s, Tip Top Tea Shop
 
 Tirupati – Glimpse Of Magnificent Temples 
@@ -1179,10 +1179,10 @@ Located at the Chittoor district of Andhra Pradesh, Tirupati is famous for its m
 Best Time To Visit: September To February
 How To Reach
 "by-air": The nearest airport is the Tirupati airport which is located at a distance of 15 kms from the main city.
-"By Train": There are 3 railway stations to reach Tirupati which includes Tirupati Main, Renigunta and Anantharajupet.
+"by-train": There are 3 railway stations to reach Tirupati which includes Tirupati Main, Renigunta and Anantharajupet.
 "by-road": There are regular buses which run from nearby cities like Andhra Pradesh, Karnataka and Tamil Nadu
 "attractions": Sri Venkateswara Temple, Swami Pushkarini Lake, City Shopping, Vedadri Narasimha Swamy Temple
-"Average Temperature": 20 Degree Celsius
+"average-temperature": 20 Degree Celsius
 "restaurants": Rainbow At Fortune Select Grand Ridge, Maurya, Andhra Spice, Hyderabad House
 
 Vaishno Devi – Take A Religious Tour 
@@ -1192,10 +1192,10 @@ Vaishno Devi is a holy cave which holds major importance in India and every year
 Best Time To Visit: March To October
 How To Reach
 "by-air": The nearest airport from Katra is Jammu Airport or Sarwari Airport
-"By Train": The nearest railhead is Katra and connects the major cities
+"by-train": The nearest railhead is Katra and connects the major cities
 "by-road": Buses run from Delhi, Amritsar, Jammu Tawi at affordable prices
 "attractions": Ardh Kuwari Cave, Bhairavnath Temple, Dera Baba Banda, Katra
-"Average Temperature": 11 Degree Celsius
+"average-temperature": 11 Degree Celsius
 "restaurants": Sagar Ratna Restaurant, Mahduban, Prem Vaishno Dhaba
 
 Alleppey – Enjoy The Houseboat Ride 
@@ -1205,10 +1205,10 @@ Also called Alappuzha, Alleppey is a beautiful city located in the South Indian 
 Best Time To Visit: October and February
 How To Reach
 "by-air": There are no direct flights from Alleppey. To reach the place the nearest airport is Kochi which is located at a distance of 60kms.
-"By Train": Alappuzha railway station is the nearest station to reach Alleppey.
+"by-train": Alappuzha railway station is the nearest station to reach Alleppey.
 "by-road": Buses run at very short intervals from places like Thiruvananthapuram, Kochi and many other neighbouring places.
 "attractions": Alappuzha Beach, Kumarakom Bird Sanctuary, Vembanad Lake, Nehru Trophy Boat Race
-"Average Temperature": 30 Degree Celsius
+"average-temperature": 30 Degree Celsius
 "restaurants": Vembanad Restaurant, Harbour Restaurant, Mushroom
 
 Bangalore – Take A Tour Silicon Valley 
@@ -1218,10 +1218,10 @@ Popularly called the Silicon Valley of India, Bangalore is one of the finest cit
 Best Time To Visit: November – February
 How To Reach
 "by-air": KempeGowda International Airport is the only airport which connects with 10 domestic and 21 international airlines.
-"By Train": There are 2 rail terminals in Bangalore – Bangalore City and Yeshwantpur Junction
+"by-train": There are 2 rail terminals in Bangalore – Bangalore City and Yeshwantpur Junction
 "by-road": Government and Private buses run from Mumbai, Goa, Chennai and Hyderabad
 "attractions": Bangalore Palace, Cubbon Park, MG Road, Lal Bagh and UB City Mall
-"Average Temperature": 27 Degree Celsius
+"average-temperature": 27 Degree Celsius
 "restaurants": Only Place, Olive Beach, Fava, Sue’s Food Place
 
 Jaipur – Experience The Royalty 
@@ -1231,9 +1231,9 @@ Jaipur is the capital city of Rajasthan which is also called the Pink City. This
 Best Time To Visit: November-March
 How To Reach
 "by-air": The nearest airport is the Sanganer airport which is well connected with all the major cities
-"By Train": Shatabdi Express connects Jaipur to all the major cities
+"by-train": Shatabdi Express connects Jaipur to all the major cities
 "by-road": There are buses by RSRTC which runs on frequent intervals and connects to major cities
 "attractions": Amer Fort, City Palace, Nahargarh Fort, Hawa Mahal
-"Average Temperature": 20 Degree Celsius
+"average-temperature": 20 Degree Celsius
 "restaurants": Choki Dhani, Four Seasons, Copper Chimney OM Revolving Restaurant
 }
