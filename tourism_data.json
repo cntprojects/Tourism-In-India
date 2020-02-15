@@ -86,8 +86,6 @@
     ],
     "average-temperature": "15 degree celsius (Min.) and 28 degree celsius (Max.)",
 }
-
-
 {
     "place": "Binsar",
     "title": "Binsar – Explore The Realms Of Wildlife",
@@ -108,9 +106,6 @@
     "average-temperature": "19.8 degree celsius (Max.) and 6.5 degree celsius (Min.)",
     "restaurants": "Baba cake and Dolma Restaurant are some of the places you can dine at in Binsar"
 }
-
-
-
 {
     "place": "Coorg",
     "title": "Coorg – Walk Amidst The Coffee Plantations",
@@ -128,64 +123,56 @@
     "restaurants": "Coorg cuisine, Raintree restaurant"
 }
 
-
-8. Kerala – The God’s Own Country
-Lush green forests in Kerala
-
-
-To all the nature lover’s out there. A trip to God’s own country is a must in your twenties for its enchanting wilderness. Luscious green trees, pristine water, crazy wildlife experience – visit Kerala for more such wonderful delights.
-
-"best-time-to-visit": November to January and June to August
-"how-to-reach": "by-air": Kerala has three main airports – Calicut International Airport, Cochin International Airport, and Trivandrum International Airport. These airports connect Kerala with different cities across the world, such as Delhi, Mumbai, Chennai, Muscat, and Dubai.
-"by-rail": Thiruvananthapuram Central railway station, Ernakulam Junction railway station, and Kollam Junction railway station are three major rail heads of Kerala. These stations connect the state with cities and towns across India.
-"attractions":
-
-Alappuzha Beach, Krishnapuram Palace, Kumarakom bird sanctuary, Marari Beach, Revi Karunakaran Museum, Punnamada Lake, Pathiramanal, and Sri Krishna Temple in Ambalappuzha
-TATA Tea Museum, Meesapulimala, Blossom Park, Pothamedu ViewPoint, Attukal Waterfalls, Cheeyappara Waterfalls, Kundala Lake, Mattupetty Dam, Anamudi, and Eravikulam National Park
-Kumarakom Bird Sanctuary, Kumarakom Backwaters, Aruvikkuzhi waterfall, Thirunakkara Mahadeva Temple, Vembanad Lake, Kumarakom Beach, and Pathiramanal Island
-Meenmutty Waterfalls, Chembra Peak,
-9 Hairpin Curves, Muthanga Wildlife Sanctuary, Ekkadal Caves, Bathery Jain Temple, Neelimala View Point, and Pookot Lake
-Periyar Wildlife Sanctuary, Mangla Devi Temple, Abraham’s Spice Garden, Murikkady, Kadathanadan Kalari Centre, Chellarkovil, Kumily, and Deepa World Spice & Ayurvedic Garden
-Lighthouse Beach, Samudra Beach, Thiruvallam Parasurama Temple, Vizhinjam Marine Aquarium, Halcyon Castle, Akkulam Lake, Jama Masjid, Vellayani Lake, Karamana River, and Rock Cut Caves
-Bekal Fort, Ananthapura Temple, Valiyaparamba Backwaters, Bekal Beach, Mallikarjuna Temple, Chandragiri Fort, Kappil Beach, Nileswaram, Bekal Hole Aqua Park, and Pallikere Beach
-Mananchira, Conolly Canal, Hilite Mall, Kallayi, Tali Temple, Kappad Beach, Kozhikode Beach, Thusharagiri Waterfalls, Sargaalaya, Payyoli Beach, Kozhippara Falls, and Matri Dei Cathedral
-Varkala Beach, Janardhan Temple, Sivagiri Muth, Kappil Lake, Papanasam Beach, Janardan Swami Temple, Vishnu Temple, Anjengo Fort, Sarkara Devi Temple, Varkala Tunnel, and Kaduvayil Thangal Dargah
-"average-temperature": 28 degree celsius
-
-"restaurants": The Riceboat, Paragon restaurant
-
-
-
-9. Kanatal – For The Best Camping Experiences
-Kanatal 
-
-
-With this rising adventure spot that offers endless opportunities to enjoy thrilling activities clubbed with one of the best camping experiences, weekends will no more be boring at escapes like Kanatal. Considered to be one of the best holiday destinations in India for all travelers, camping in Kanatal is one experience that no one should miss out on.
-
-"best-time-to-visit": April to June
-"how-to-reach": "by-air": Located at a distance of 92 kms, Jolly Grant Airport is the nearest airstrip to Kanatal.
-"by-rail": Located at a distance of 75 kms, Rishikesh railway station is the nearest railhead to Kanatal.
-"attractions": Kodia Jungle, Tehri Lake, Surkanda Devi temple, New Tehri Dam, and more.
-
-"average-temperature": 25 degree celsius
-
-"restaurants": Brothers cafe and restaurant, Chacha Sip & Dine
-
-
-
-Kasol – The Trekker’s Paradise
-Solo traveler in Kasol
-Here’s why every man should travel solo at least once in your life – Not only will you discover a new you and find a direction for yourself, but you’d return with experiences of a lifetime. And there’s no better place than Kasol, one of the top 10 tourist places in India.
-
-"best-time-to-visit": October to June
-"how-to-reach": "by-air": Bhuntar Domestic Airport (31 km away) is the nearest flight connect.
-"by-rail": Pathankot (296 km away) is the nearest rail head.
-"by-road": HRTC (Himachal Road Transport Corporation) runs regular buses from Delhi, Haryana, & Punjab and other Himachal cities like Pathankot, Shimla, Kangra, Solan, & Dharamsala.
-"attractions": Kheerganga peak, Malana village, Parvati river, Manikaran Sahib gurudwara, Jari, Bhuntar, and more.
-
-"average-temperature": 16.8 degree celsius
-
-"restaurants": The Evergreen, Moon Dance Cafe
+{
+    "title": "Kerala – The God’s Own Country",
+    "description": "To all the nature lover’s out there. A trip to God’s own country is a must in your twenties for its enchanting wilderness. Luscious green trees, pristine water, crazy wildlife experience – visit Kerala for more such wonderful delights.",
+    "best-time-to-visit": "November to January and June to August",
+    "how-to-reach": {
+        "by-air": "Kerala has three main airports – Calicut International Airport, Cochin International Airport, and Trivandrum International Airport. These airports connect Kerala with different cities across the world, such as Delhi, Mumbai, Chennai, Muscat, and Dubai.",
+        "by-rail": "Thiruvananthapuram Central railway station, Ernakulam Junction railway station, and Kollam Junction railway station are three major rail heads of Kerala. These stations connect the state with cities and towns across India."
+    },
+    "attractions": "Alappuzha Beach, Krishnapuram Palace, Kumarakom bird sanctuary, Marari Beach, Revi Karunakaran Museum, Punnamada Lake, Pathiramanal, and Sri Krishna Temple in Ambalappuzha,
+    TATA Tea Museum, Meesapulimala, Blossom Park, Pothamedu ViewPoint, Attukal Waterfalls, Cheeyappara Waterfalls, Kundala Lake, Mattupetty Dam, Anamudi, and Eravikulam National Park,
+    Kumarakom Bird Sanctuary, Kumarakom Backwaters, Aruvikkuzhi waterfall, Thirunakkara Mahadeva Temple, Vembanad Lake, Kumarakom Beach, and Pathiramanal Island,
+    Meenmutty Waterfalls, Chembra Peak,
+    9 Hairpin Curves, Muthanga Wildlife Sanctuary, Ekkadal Caves, Bathery Jain Temple, Neelimala View Point, and Pookot Lake,
+    Periyar Wildlife Sanctuary, Mangla Devi Temple, Abraham’s Spice Garden, Murikkady, Kadathanadan Kalari Centre, Chellarkovil, Kumily, and Deepa World Spice & Ayurvedic Garden,
+    Lighthouse Beach, Samudra Beach, Thiruvallam Parasurama Temple, Vizhinjam Marine Aquarium, Halcyon Castle, Akkulam Lake, Jama Masjid, Vellayani Lake, Karamana River, and Rock Cut Caves,
+    Bekal Fort, Ananthapura Temple, Valiyaparamba Backwaters, Bekal Beach, Mallikarjuna Temple, Chandragiri Fort, Kappil Beach, Nileswaram, Bekal Hole Aqua Park, and Pallikere Beach,
+    Mananchira, Conolly Canal, Hilite Mall, Kallayi, Tali Temple, Kappad Beach, Kozhikode Beach, Thusharagiri Waterfalls, Sargaalaya, Payyoli Beach, Kozhippara Falls, and Matri Dei Cathedral,
+    Varkala Beach, Janardhan Temple, Sivagiri Muth, Kappil Lake, Papanasam Beach, Janardan Swami Temple, Vishnu Temple, Anjengo Fort, Sarkara Devi Temple, Varkala Tunnel, and Kaduvayil Thangal Dargah",
+    "average-temperature": "28 degree celsius",
+    "restaurants": "The Riceboat, Paragon restaurant"
+}
+{
+    "place": "Kanatal",
+    "state": "Uttarakhand",
+    "title": "Kanatal – For The Best Camping Experiences",
+    "description": "With this rising adventure spot that offers endless opportunities to enjoy thrilling activities clubbed with one of the best camping experiences, weekends will no more be boring at escapes like Kanatal. Considered to be one of the best holiday destinations in India for all travelers, camping in Kanatal is one experience that no one should miss out on.",
+    "best-time-to-visit": "April to June",
+    "how-to-reach": {
+        "by-air": "Located at a distance of 92 kms, Jolly Grant Airport is the nearest airstrip to Kanatal.",
+        "by-rail": "Located at a distance of 75 kms, Rishikesh railway station is the nearest railhead to Kanatal."
+    },
+    "attractions": "Kodia Jungle, Tehri Lake, Surkanda Devi temple, New Tehri Dam, and more.",
+    "average-temperature": "25 degree celsius",
+    "restaurants": "Brothers cafe and restaurant, Chacha Sip & Dine"
+}
+{
+    "place": "Kasol",
+    "state": "Himachal Pradesh",
+    "title": "Kasol – The Trekker’s Paradise",
+    "description": "Here’s why every man should travel solo at least once in your life – Not only will you discover a new you and find a direction for yourself, but you’d return with experiences of a lifetime. And there’s no better place than Kasol, one of the top 10 tourist places in India.",
+    "best-time-to-visit": "October to June",
+    "how-to-reach": {
+        "by-air": "Bhuntar Domestic Airport (31 km away) is the nearest flight connect.",
+        "by-rail": "Pathankot (296 km away) is the nearest rail head.",
+        "by-road": "HRTC (Himachal Road Transport Corporation) runs regular buses from Delhi, Haryana, & Punjab and other Himachal cities like Pathankot, Shimla, Kangra, Solan, & Dharamsala."
+    },
+    "attractions": "Kheerganga peak, Malana village, Parvati river, Manikaran Sahib gurudwara, Jari, Bhuntar, and more.",
+    "average-temperature": "16.8 degree celsius",
+    "restaurants": "The Evergreen, Moon Dance Cafe"
+}
 
 
 
