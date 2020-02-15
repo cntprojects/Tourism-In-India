@@ -1007,63 +1007,73 @@ Lansdowne, the quaint hillside of Uttarakhand is gradually becoming a popular to
 "by-rail": For those wanting to reach Lansdowne by train, the nearest railway station from Lansdowne is Kotdwar, at a distance of 40 km. Kotdwar Station is well-connected to various cities and towns of North India.
 "by-road": You can board a bus for Kotdwar or Dugadda from Kashmiri Gate.
 "attractions": Tip N Top, Bhulla Lake, War Memorial, Tarkeshwar Mahadev Temple, Darwan Singh Museum
+{
+"place":"Joshimath",
+"state":"Uttarakhand",
+"title":"Joshimath – Place Of Worship",
+"description":"Joshimath, in northern the tip of the Indian subcontinent on the Himalayas, is one of the major tourist attractions in Northern India. Joshimath is one of the most beautiful tourist attractions in the state of Uttarakhand, which attracts tourists who are always in pursuit of a peaceful vacation. While one can visit the hills throughout the year, the best time to visit Joshimath is during summers, as it offers excellent relief from the sizzling summer heat."
 
-Joshimath – Place Of Worship
-Joshimath
-Joshimath, in northern the tip of the Indian subcontinent on the Himalayas, is one of the major tourist attractions in Northern India. Joshimath is one of the most beautiful tourist attractions in the state of Uttarakhand, which attracts tourists who are always in pursuit of a peaceful vacation. While one can visit the hills throughout the year, the best time to visit Joshimath is during summers, as it offers excellent relief from the sizzling summer heat.
-
-"best-time-to-visit": April to June
-
-"how-to-reach": "by-air": Jolly Grant Airport lies at 270 km from Joshimath.
-"by-rail": Rishikesh, which is the closest railway station, is around 250 km from Joshimath.
-"by-road": If you are starting from Delhi, you should reach Rishikesh first. Rishikesh is also well connected via road to different parts of the nation.
-"attractions": Ghangaria, Auli ropeway, Nanda Devi National Park, Tapovan, Narsingh Temple, Vishnuprayag river, Govindghat
-
-Tawang – Backpacking Trip
-Things to do in Tawang
-Tawang’s landscape is adorned with massive rocky yet green mountains, group of Buddhist monasteries, and ethnicity of Monpa hamlets. Its iconic 17th-century monastery has always been a boss at stealing hearts. Warm hospitality and pleasant weather are two primary reasons Tawang is counted among one of the best places to visit in India before you turn 30.
-
-"best-time-to-visit": April to June, September to October
-
-"how-to-reach": "by-air": The nearest airport from Tawang is Salonibari Airport, at a distance of 315 km.
-"by-rail": The nearest railhead is Tezpur Railway Station,
-385 km away.
-"by-road": Tawang is 1404 km away from Kolkata, nearest major city from Tawang. Make sure you make sufficient stops enroute.
-"attractions": Tawang Monastery, Nuranang Waterfall, Tawang War Memorial
-
-Manikaran – Hot Springs Favourite
-entrance to manikaran
-A pilgrimage center for Hindus and Sikhs, Manikaran is most popular for its hot springs. With religious tourists pouring-in in large numbers, it has become quite crowded. Manikaran is located 90 km from Manali. Descend on this area of worship and seek the blessings of Gods. It is considered as one of the best places to visit in India before you turn 30.
-
-"best-time-to-visit": April to June
-
-"how-to-reach": "by-air": Bhuntar airport is 24 km away from Manikaran.
-"by-rail": The nearest railhead is Summer Hill Railway Station,
-106 km away.
-"by-road": The best way to reach Manikaran from Pathankot is to go in a bus till Bhuntar and then take a local bus.
-"attractions": Grahan Street, Chalal Trek Trail, Gurudwara Shri Manikaran Sahib
-
-Shimoga – Karnataka’s Hidden Gem
-The top view of valley in Agumbe in Shimoga
-An offbeat and picturesque hill station, Shimoga is the true gem of Karnataka. Bestowed with verdant hills, valleys, thick forests, and wildlife, Shimoga speaks of nothing but surreal and scenic beauty. With a pleasant climate and mesmerizing sceneries, you will have the time of your life here. It is considered as one of the most offbeat places to visit in India before you turn 30.
-
-"best-time-to-visit": March to June
-
-"how-to-reach": "by-air": The nearest International Airport is Mangalore Airport, Mangalore, roughly 195 Kms from Shimoga.
-"by-rail": Shimoga has its own Railway Station named as Shimoga Nagar Railway station.
-"by-road": Shimoga is well-connected to Bhadravathi, Kadur, Banavara, Tumkur, Bangalore and Goa. You can take the Karnataka State Road Transport Corporation buses.
-"attractions": Jog falls, Kodachadri, Dabbe falls, Agumbe, Gudavi bird sanctuary
-
-Madikeri – Scenic Beauty
-A beautiful shot of the Abbey waterfalls in Madikeri
-Madikeri is one of the most visited hill stations in Karnataka. Encircled by the Western Ghats, it is known for its scenic beauty, misty hills, wildlife, local cuisines, and coffee plantations. Staying in the lap of nature is nothing less than stepping into heaven. You will have a blast here. We suggest you take this trip solo. You can also take this trip with friends or family, however.
-
-"best-time-to-visit": July to September
-
-"how-to-reach": "by-air": The town of Madikeri doesn’t have an airport of its own. The airport in Mangalore can be used to reach Madikeri.
-"by-rail": The nearest railhead is Kannur, which is 113 km from Madikeri.
-"by-road": To reach Madikeri from Mysore, you can take any government or private bus.
-"attractions": Raja’s seat, Madikeri Fort, Raja’s Tomb, Sree Kanchi Kamakshi Temple
+"best-time-to-visit":"April to June",
+"how-to-reach":{
+"by-air":"Jolly Grant Airport lies at 270 km from Joshimath.",
+"by-rail":"Rishikesh, which is the closest railway station, is around 250 km from Joshimath.",
+"by-road":"If you are starting from Delhi, you should reach Rishikesh first. Rishikesh is also well connected via road to different parts of the nation.",
+}
+"attractions":"Ghangaria, Auli ropeway, Nanda Devi National Park, Tapovan, Narsingh Temple, Vishnuprayag river, Govindghat",
+},
+{
+"place":"Tawang",
+"state":"Arunachal Pradesh",
+"title":"Tawang – Backpacking Trip",
+"description":"Tawang’s landscape is adorned with massive rocky yet green mountains, group of Buddhist monasteries, and ethnicity of Monpa hamlets. Its iconic 17th-century monastery has always been a boss at stealing hearts. Warm hospitality and pleasant weather are two primary reasons Tawang is counted among one of the best places to visit in India before you turn 30.",
+"best-time-to-visit":"April to June, September to October",
+"how-to-reach":{
+"by-air":"The nearest airport from Tawang is Salonibari Airport, at a distance of 315 km.",
+"by-rail":"The nearest railhead is Tezpur Railway Station,385 km away.",
+"by-road":"Tawang is 1404 km away from Kolkata, nearest major city from Tawang. Make sure you make sufficient stops enroute.",
+},
+"attractions":"Tawang Monastery, Nuranang Waterfall, Tawang War Memorial",
+},
+{
+"place":"Manikaran",
+"state":"Himachal Pradesh",
+"title":"Manikaran – Hot Springs Favourite",
+"description":"A pilgrimage center for Hindus and Sikhs, Manikaran is most popular for its hot springs. With religious tourists pouring-in in large numbers, it has become quite crowded. Manikaran is located 90 km from Manali. Descend on this area of worship and seek the blessings of Gods. It is considered as one of the best places to visit in India before you turn 30.",
+"best-time-to-visit":"April to June",
+"how-to-reach":{
+"by-air":"Bhuntar airport is 24 km away from Manikaran.",
+"by-rail":"The nearest railhead is Summer Hill Railway Station,106 km away.",
+"by-road":"The best way to reach Manikaran from Pathankot is to go in a bus till Bhuntar and then take a local bus.",
+"attractions":"Grahan Street, Chalal Trek Trail, Gurudwara Shri Manikaran Sahib",
+},
+{
+"place":"Shimoga",
+"state":"Karnataka",
+"title":"Shimoga – Karnataka’s Hidden Gem",
+"description":"The top view of valley in Agumbe in Shimoga
+An offbeat and picturesque hill station, Shimoga is the true gem of Karnataka. Bestowed with verdant hills, valleys, thick forests, and wildlife, Shimoga speaks of nothing but surreal and scenic beauty. With a pleasant climate and mesmerizing sceneries, you will have the time of your life here. It is considered as one of the most offbeat places to visit in India before you turn 30.",
+"best-time-to-visit":"March to June",
+"how-to-reach":{
+"by-air":"The nearest International Airport is Mangalore Airport, Mangalore, roughly 195 Kms from Shimoga.",
+"by-rail": "Shimoga has its own Railway Station named as Shimoga Nagar Railway station.",
+"by-road":"Shimoga is well-connected to Bhadravathi, Kadur, Banavara, Tumkur, Bangalore and Goa. You can take the Karnataka State Road Transport Corporation buses.",
+},
+"attractions":"Jog falls, Kodachadri, Dabbe falls, Agumbe, Gudavi bird sanctuary",
+},
+{
+"place":"Madikeri",
+"state":"Karnataka",
+"title":"Madikeri – Scenic Beauty",
+"description":"A beautiful shot of the Abbey waterfalls in Madikeri
+Madikeri is one of the most visited hill stations in Karnataka. Encircled by the Western Ghats, it is known for its scenic beauty, misty hills, wildlife, local cuisines, and coffee plantations. Staying in the lap of nature is nothing less than stepping into heaven. You will have a blast here. We suggest you take this trip solo. You can also take this trip with friends or family, however."
+"best-time-to-visit":"July to September",
+"how-to-reach":{
+"by-air":"he town of Madikeri doesn’t have an airport of its own. The airport in Mangalore can be used to reach Madikeri.",
+"by-rail":"The nearest railhead is Kannur, which is 113 km from Madikeri.",
+"by-road":"To reach Madikeri from Mysore, you can take any government or private bus.",
+},
+"attractions":"Raja’s seat, Madikeri Fort, Raja’s Tomb, Sree Kanchi Kamakshi Temple",
+},
 {
 "place":"Ranikhet",
 "state":"Uttarakhand",
