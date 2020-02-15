@@ -9,7 +9,7 @@
             "by-air": "Dabolim International Airport is the major airport in Goa.",
             "by-rail": "Madgaon Railway Station and Thivim Railway Station are the main railway heads of Goa.",
             "by-road": "Margao Bus Terminal, Kadamba Bus Terminal, and Mapusa Bus Terminal are best connected bus terminals in Goa. However, many people prefer taking a car/bike ride from Mumbai and Pune.",
-            "by-sea": "You can also opt for ferry services which is an excellent way of commuting. You can take a ferry from Mumbai to Panaji and easily reach Goa.",
+            "by-sea": "You can also opt for ferry services which is an excellent way of commuting. You can take a ferry from Mumbai to Panaji and easily reach Goa."
         },
         "attractions": "Beaches like Vagator, Calangute, Anjuna, Colva, & Benaulim, Fort Aguada, Church of Mae De Deus, Basilica of Bom Jesus, Temple of Bodgeshwar, Dudhsagar Waterfalls, St Xavier’s Church, Grand Island (for watersports), Deltin Royale Casino and clubs like Cafe Mambos,Titos, LPK (Love Passion Karma), SinQ, & Club Cubana.",
         "things-to-do": [
@@ -43,7 +43,7 @@
         "how-to-reach": {
             "by-air": "Srinagar has its own airport.",
             "by-rail": "The Srinagar Railway Station is under construction. Till then, passengers can take a train to Udhampur Railway Station(229 km from Srinagar)",
-            "by-road": "Unless you are traveling from a city of Jammu & Kashmir, road is not a preferred way to reach Srinagar.",
+            "by-road": "Unless you are traveling from a city of Jammu & Kashmir, road is not a preferred way to reach Srinagar."
         },
         "attractions": "Dal Lake (boating in shikaras & nightstays in houseboats), Nishat Bagh, Shalimar Bagh, Tomb of Zin-ul-Abidin, Jama Masjid, Hazratbal Mosque, and Shankaracharya Hill, Pari mahal, Indira Gandhi Memorial Tulip Garden",
         "restaurants": "Mughal Darbar, Cafe De Linz",
@@ -85,7 +85,7 @@
             "Stok Palace Heritage hotel and Shakti Himalaya are some of the accommodations you can stay at in Ladakh",
             "Nubra Valley, Khardung La, Shanti Stupa, Magnetic Hill, Pangong lake and leh palace are a must visit."
         ],
-        "average-temperature": "15 degree celsius (Min.) and 28 degree celsius (Max.)",
+        "average-temperature": "15 degree celsius (Min.) and 28 degree celsius (Max.)"
     },
     {
         "place": "Binsar",
@@ -117,7 +117,7 @@
         "how-to-reach": {
             "by-air": "The nearest domestic airport is in Mangalore,156 km away. The nearest international airport is the Kempegowda International Airport in Bengaluru,285 kilometres away.",
             "by-rail": "Mysore Junction, 106 km away, is the nearest rail head.",
-            "by-road": "The 238 km long road trip from Bangalore (Bengaluru) takes 5 hours 30 minutes.",
+            "by-road": "The 238 km long road trip from Bangalore (Bengaluru) takes 5 hours 30 minutes."
         },
         "attractions": "Abbey Falls, Nalknad Palace, Barapole River, Brahmagiri Peak, Iruppu Falls, Namdroling Monastery, Nagarhole National Park, Microlight flight at Chelavara, ziplining, and angling in River Kaveri.",
         "average-temperature": "29 degree celsius",
@@ -131,17 +131,8 @@
             "by-air": "Kerala has three main airports – Calicut International Airport, Cochin International Airport, and Trivandrum International Airport. These airports connect Kerala with different cities across the world, such as Delhi, Mumbai, Chennai, Muscat, and Dubai.",
             "by-rail": "Thiruvananthapuram Central railway station, Ernakulam Junction railway station, and Kollam Junction railway station are three major rail heads of Kerala. These stations connect the state with cities and towns across India."
         },
-        "attractions": "Alappuzha Beach, Krishnapuram Palace, Kumarakom bird sanctuary, Marari Beach, Revi Karunakaran Museum, Punnamada Lake, Pathiramanal, and Sri Krishna Temple in Ambalappuzha,
-    TATA Tea Museum, Meesapulimala, Blossom Park, Pothamedu ViewPoint, Attukal Waterfalls, Cheeyappara Waterfalls, Kundala Lake, Mattupetty Dam, Anamudi, and Eravikulam National Park,
-    Kumarakom Bird Sanctuary, Kumarakom Backwaters, Aruvikkuzhi waterfall, Thirunakkara Mahadeva Temple, Vembanad Lake, Kumarakom Beach, and Pathiramanal Island,
-    Meenmutty Waterfalls, Chembra Peak,
-        9 Hairpin Curves, Muthanga Wildlife Sanctuary, Ekkadal Caves, Bathery Jain Temple, Neelimala View Point, and Pookot Lake,
-    Periyar Wildlife Sanctuary, Mangla Devi Temple, Abraham’s Spice Garden, Murikkady, Kadathanadan Kalari Centre, Chellarkovil, Kumily, and Deepa World Spice & Ayurvedic Garden,
-    Lighthouse Beach, Samudra Beach, Thiruvallam Parasurama Temple, Vizhinjam Marine Aquarium, Halcyon Castle, Akkulam Lake, Jama Masjid, Vellayani Lake, Karamana River, and Rock Cut Caves,
-    Bekal Fort, Ananthapura Temple, Valiyaparamba Backwaters, Bekal Beach, Mallikarjuna Temple, Chandragiri Fort, Kappil Beach, Nileswaram, Bekal Hole Aqua Park, and Pallikere Beach,
-    Mananchira, Conolly Canal, Hilite Mall, Kallayi, Tali Temple, Kappad Beach, Kozhikode Beach, Thusharagiri Waterfalls, Sargaalaya, Payyoli Beach, Kozhippara Falls, and Matri Dei Cathedral,
-    Varkala Beach, Janardhan Temple, Sivagiri Muth, Kappil Lake, Papanasam Beach, Janardan Swami Temple, Vishnu Temple, Anjengo Fort, Sarkara Devi Temple, Varkala Tunnel, and Kaduvayil Thangal Dargah",
-    "average-temperature": "28 degree celsius",
+        "attractions": "Alappuzha Beach, Krishnapuram Palace, Kumarakom bird sanctuary, Marari Beach, Revi Karunakaran Museum, Punnamada Lake, Pathiramanal, and Sri Krishna Temple in Ambalappuzha,TATA Tea Museum, Meesapulimala, Blossom Park, Pothamedu ViewPoint, Attukal Waterfalls, Cheeyappara Waterfalls, Kundala Lake, Mattupetty Dam, Anamudi, and Eravikulam National Park,Kumarakom Bird Sanctuary, Kumarakom Backwaters, Aruvikkuzhi waterfall, Thirunakkara Mahadeva Temple, Vembanad Lake, Kumarakom Beach, and Pathiramanal Island,Meenmutty Waterfalls, Chembra Peak,9 Hairpin Curves, Muthanga Wildlife Sanctuary, Ekkadal Caves, Bathery Jain Temple, Neelimala View Point, and Pookot Lake,Periyar Wildlife Sanctuary, Mangla Devi Temple, Abraham’s Spice Garden, Murikkady, Kadathanadan Kalari Centre, Chellarkovil, Kumily, and Deepa World Spice & Ayurvedic Garden,Lighthouse Beach, Samudra Beach, Thiruvallam Parasurama Temple, Vizhinjam Marine Aquarium, Halcyon Castle, Akkulam Lake, Jama Masjid, Vellayani Lake, Karamana River, and Rock Cut Caves,Bekal Fort, Ananthapura Temple, Valiyaparamba Backwaters, Bekal Beach, Mallikarjuna Temple, Chandragiri Fort, Kappil Beach, Nileswaram, Bekal Hole Aqua Park, and Pallikere Beach,Mananchira, Conolly Canal, Hilite Mall, Kallayi, Tali Temple, Kappad Beach, Kozhikode Beach, Thusharagiri Waterfalls, Sargaalaya, Payyoli Beach, Kozhippara Falls, and Matri Dei Cathedral,Varkala Beach, Janardhan Temple, Sivagiri Muth, Kappil Lake, Papanasam Beach, Janardan Swami Temple, Vishnu Temple, Anjengo Fort, Sarkara Devi Temple, Varkala Tunnel, and Kaduvayil Thangal Dargah",
+        "average-temperature": "28 degree celsius",
         "restaurants": "The Riceboat, Paragon restaurant"
     },
     {
