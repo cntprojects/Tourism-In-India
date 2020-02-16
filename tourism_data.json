@@ -250,46 +250,38 @@
         "attractions": "Great Himalayan National Park, Jalori Pass, Raghupur Fort, Saryolsar, Gushaini, Sojha, and more.",
         "average-temperature": "25 degree celsius",
         "restaurants": "Sunshine Himalayan camp, Kaith Mud"
+    },
+    {
+        "place": "Jim Corbett National Park",
+        "state": "Uttarakhand",
+        "title": "Jim Corbett – An Adventurous Jungle Adventure",
+        "description": "One of the best national parks in India, Jim Corbett is famous for Indian tiger sightings. The wilderness here becomes hospitable with the luxurious jungle resorts that allow you to stay closer to nature while enjoying the best of comfort. If you’re a photography-enthusiast, Corbett will never leave you disappointed.",
+        "best-time-to-visit": "The best time to visit Jim Corbett and experiencing the safari at its best depends on the kind of experience you’re looking for. Summer is considered the best time for tiger sighting. However, November to February is the best time to visit Jim Corbett.",
+        "how-to-reach": {
+            "by-air": "Pantnagar Airport is the nearest airport from Jim Corbett National Park",
+            "by-rail": "Ramnagar Railway station is located merely 12 km away from the national park",
+            "by-road": "The national park is well connected by-roads to various destinations like Delhi and Dehradun."
+        },
+        "attractions": "Garjiya Devi Temple, Jim Corbett Museum, Corbett Falls, Corbett Tiger Reserve, Ramganga Dam, and more.",
+        "average-temperature": "27 degree celsius",
+        "restaurants": "Safari Cafe & Homestay, Doaba’s Punjabi Dhaba"
+    },
+    {
+        "place": "Manali",
+        "state": "Himachal Pradesh",
+        "title": "Manali – The Snowy Paradise",
+        "descripton": "The most famous resort town nestled amidst the snow-capped mountains, Manali is the popular gem in the heart of Himachal Pradesh. A mesmerizing combination of nature, peace, and adventure, Manali is one of the best holiday destinations in India for all travelers.",
+        "best-time-to-visit": "October to February",
+        "how-to-reach": {
+            "by-air": "Located at a distance of about 52 kms, Kullu-Manali airport is the nearest airport to Manali.",
+            "by-rail": "Joginder Nagar is the nearest railway station to Manali located at a distance of about 160 kms.",
+            "by-road": "Manali can be easily reach by-road via private cabs, cars, and state-run or private buses from the nearby cities of New Delhi, Chandigarh, Pathankot, Ambala, and so on."
+        },
+        "attractions": "Bhrigu Lake, Rohtang Pass, Solang Valley, Hidimba Devi Temple, Manu Temple, Great Himalayan National Park, Jogini Falls, and Tibetan Monastery.",
+        "average-temperature": "15.1 degree celsius",
+        "restaurants": "Johnson’s cafe and hotel, Chopsticks restaurant"
     }
 ]
-
-
-
-Jim Corbett – An Adventurous Jungle Adventure
-Bring on the adventure at Jim Corbett
-
-
-One of the best national parks in India, Jim Corbett is famous for Indian tiger sightings. The wilderness here becomes hospitable with the luxurious jungle resorts that allow you to stay closer to nature while enjoying the best of comfort. If you’re a photography-enthusiast, Corbett will never leave you disappointed.
-
-"best-time-to-visit": The best time to visit Jim Corbett and experiencing the safari at its best depends on the kind of experience you’re looking for. Summer is considered the best time for tiger sighting. However, November to February is the best time to visit Jim Corbett.
-
-"how-to-reach": "by-air": Pantnagar Airport is the nearest airport from Jim Corbett National Park
-"by-rail": Ramnagar Railway station is located merely 12 km away from the national park
-"by-road": The national park is well connected by-roads to various destinations like Delhi and Dehradun.
-"attractions": Garjiya Devi Temple, Jim Corbett Museum, Corbett Falls, Corbett Tiger Reserve, Ramganga Dam, and more.
-
-"average-temperature": 27 degree celsius
-
-"restaurants": Safari Cafe & Homestay, Doaba’s Punjabi Dhaba
-
-
-
-Manali – The Snowy Paradise
-Manali 
-
-
-The most famous resort town nestled amidst the snow-capped mountains, Manali is the popular gem in the heart of Himachal Pradesh. A mesmerizing combination of nature, peace, and adventure, Manali is one of the best holiday destinations in India for all travelers.
-
-"best-time-to-visit": October to February
-"how-to-reach": "by-air": Located at a distance of about 52 kms, Kullu-Manali airport is the nearest airport to Manali.
-"by-rail": Joginder Nagar is the nearest railway station to Manali located at a distance of about 160 kms.
-"by-road": Manali can be easily reach by-road via private cabs, cars, and state-run or private buses from the nearby cities of New Delhi, Chandigarh, Pathankot, Ambala, and so on.
-"attractions": Bhrigu Lake, Rohtang Pass, Solang Valley, Hidimba Devi Temple, Manu Temple, Great Himalayan National Park, Jogini Falls, and Tibetan Monastery.
-
-"average-temperature": 15.1 degree celsius
-
-"restaurants": Johnson’s cafe and hotel, Chopsticks restaurant
-
 
 
 Udaipur – The Romantic City Of Lakes
