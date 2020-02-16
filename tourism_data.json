@@ -340,94 +340,82 @@
         "attractions": " Govindghat, the National Park, Hemkund Sahib, Nanda Devi National Park, and Pushpawati River.",
         "average-temperature": "16 to 18 degree celsius",
         "restaurants": "Bhavishay Kedar, Ghangaria, Hemkund Sahib"
+    },
+    {
+        "place": "Jaisalmer",
+        "state": "Rajasthan",
+        "title": "Jaisalmer – For The Best Desert Safari Ever",
+        "description": "The Golden City of Rajasthan, Jaisalmer is surely one of the best cities to visit in India. This part of Rajasthan lies in the Thar Desert region, exhibiting the magic of velvet sand dunes meshed with the ever-colorful culture of the state. Jaisalmer is where you can spend your time indulging in exciting activities such as dune bashing, camel safari, and desert camping. Yes! Desert camping in Jaisalmer makes for an experiential stay, with all the luxury you could wish for.",
+        "best-time-to-visit": "October to February",
+        "how-to-reach": {
+            "by-air": "Jodhpur Airport is the nearest airport from Jaisalmer. Cities like Delhi, Mumbai and Udaipur are connected to this airport.",
+            "by-rail": "Jaisalmer has its own railway station which is indeed connected widely across North India, with cities like Jaipur and Delhi.",
+            "by-road": "One can easily reach Jaisalmer by-road via buses or cabs."
+        },
+        "attractions": "Jaisalmer Fort, Bada Bagh, Folklore Museum,Sam Sand Dunes and Desert Cultural Centre.",
+        "average-temperature": "30 degree celsius",
+        "restaurants": "Restaurant Romany, Milan restaurant, Cafe the Kaku"
+    },
+    {
+        "place": "Jodhpur",
+        "state": "Rajasthan",
+        "title": "Jodhpur – Bleed Blue In The Royal City",
+        "description": "Jodhpur, or the Blue City of Rajasthan, will lure you with its massive hill fort called the Mehrangarh Fort. Right from this point, you get to behold the city’s landscape washed in blue. The interiors will transfer you back to the olden era. The cobbled pavements of this city exhibits the essence of Rajasthan in all its glory.",
+        "best-time-to-visit": "October to February",
+        "how-to-reach": {
+            "by-air": "The city has its own domestic airport, which is connected to major cities like Udaipur, Delhi, Jaipur and Mumbai.",
+            "by-rail": "Jodhpur Railway Station indeed is among widely connection railheads in Rajasthan.",
+            "by-road": "Similar to airways and railways, roadways too is smooth and easily accessible in this city"
+        },
+        "attractions": "Umaid Bhavan Palace, Jaswant Thada, Mehrangarh Fort, Mandore Garden, and Balsamand Lake.",
+        "average-temperature": "25 degree celsius",
+        "restaurants": "Indique restaurant, Kalinga restaurant"
+    },
+    {
+        "state": "Himachal Pradesh",
+        "title": "Prashar Lake – For An Offbeat Experience",
+        "place": "Prashar Lake",
+        "description": "Located at a distance of about 49 kilometers towards the north of Mandi district, Prashar Lake is one of the rising trekking hotspots in Himachal Pradesh. Offering scintillating views of the Dhauladhar range, it is indeed one of the beautiful places in India.",
+        "best-time-to-visit": "April to July and September to November",
+        "how-to-reach": {
+            "by-air": "Kullu Manali airport is the nearest airstrip which is 73 kms away from Mandi which further happens to be the closest city to Prashar Lake located at a distance about 49 kms.",
+            "by-rail": "Joginder Nagar is the nearest railway station to Mandi which is set at a distance of about 50 kilometers, and then one can take a cab from there and trek till Prashar Lake."
+        },
+        "attractions": "Mandi, Prashar Lake Trek, Three-tiered temple, Bhutnath Temple, and Barot.",
+        "average-temperature": "20 to 25 degree celsius",
+        "restaurants": "Wazir Thakur restaurant"
+    },
+    {
+        "title": "Mukteshwar – The Lesser Known Gem Of Uttarakhand",
+        "place": "Mukteshwar",
+        "state": "Uttarakhand",
+        "description": "A quaint little town in the state of Uttarakhand, Mukteshwar is one of the famous tourist places in India that is a must-visit destination for all. Other than the lush meadows and dense forests, Mukteshwar is quite popular amidst the adventure enthusiasts for outdoor sports such as rappelling, rock climbing, and more, making it one of the best places in India for adventure seekers. Also this is one of the new tourist places in India.",
+        "best-time-to-visit": "October to June",
+        "how-to-reach": {
+            "by-air": "Dehradun airport is the nearest airstrip located at a distance of 183 kms from Mukteshwar.",
+            "by-rail": "Kathgodam railway station is the nearest railhead located at a distance of just 70 kms away.",
+            "by-road": "One can also reach the Mukteshwar easily by-road from the neighboring cities of Delhi, Chandigarh, Shimla, and Manali."
+        },
+        "attractions": "Mukteshwar Temple, Sitla, Chauthi Jaali, Admire Nanda Devi, and Mukteshwar Inspection Bungalow.",
+        "average-temperature": "16 degree celsius",
+        "restaurants": "Alankar restaurant, Chirping tales cafe"
+    },
+    {
+        "title": "Dhanaulti – Explore The Most Beautiful Alpine Forests",
+        "place": "Dhanaulti",
+        "state": "Uttarakhand",
+        "description": "Located at an elevation of about 2200 meters with Mussourie and Chamba as its bordering cities, Dhanaulti has off-lately emerged as one of the most offbeat destinations in India. For those who like to experience life at their own pace be it fast or slow, this is the perfect place to be.",
+        "best-time-to-visit": "September to June",
+        "how-to-reach": {
+            "by-air": "Jolly Grant Airport in Dehradun is the nearest airstrip to Dhanaulti located just 82 kms away.",
+            "by-rail": "The Dehradun railway station is the nearest railhead located just 25 kms away from Dhanaulti.",
+            "by-road": "One can also reach the town of Dhanaulti easily via road from the nearby cities of Shimla, Delhi, Shimla, Chandigarh, and Manali."
+        },
+        "attractions": "The Eco Park, Thangdhar Camp, Surkanda Devi Temple, and Potato Farm.",
+        "average-temperature": "20 degree celsius",
+        "restaurants": "Hill view restaurant, Snowlake restaurant"
     }
 ]
-
-Jaisalmer – For The Best Desert Safari Ever
-Another name among the tourist places in jaisalmer is Patwon ki haveli
-
-
-The Golden City of Rajasthan, Jaisalmer is surely one of the best cities to visit in India. This part of Rajasthan lies in the Thar Desert region, exhibiting the magic of velvet sand dunes meshed with the ever-colorful culture of the state. Jaisalmer is where you can spend your time indulging in exciting activities such as dune bashing, camel safari, and desert camping. Yes! Desert camping in Jaisalmer makes for an experiential stay, with all the luxury you could wish for.
-
-"best-time-to-visit": October to February
-"how-to-reach": "by-air": Jodhpur Airport is the nearest airport from Jaisalmer. Cities like Delhi, Mumbai and Udaipur are connected to this airport.
-"by-rail": Jaisalmer has its own railway station which is indeed connected widely across North India, with cities like Jaipur and Delhi.
-"by-road": One can easily reach Jaisalmer by-road via buses or cabs.
-"attractions": Jaisalmer Fort, Bada Bagh, Folklore Museum,Sam Sand Dunes and Desert Cultural Centre.
-
-"average-temperature": 30 degree celsius
-
-"restaurants":  Restaurant Romany, Milan restaurant, Cafe the Kaku
-
-
-
-Jodhpur – Bleed Blue In The Royal City
-Sunrise at Mehrangarh Fort
-Jodhpur, or the Blue City of Rajasthan, will lure you with its massive hill fort called the Mehrangarh Fort. Right from this point, you get to behold the city’s landscape washed in blue. The interiors will transfer you back to the olden era. The cobbled pavements of this city exhibits the essence of Rajasthan in all its glory.
-
-"best-time-to-visit": October to February
-"how-to-reach": "by-air": The city has its own domestic airport, which is connected to major cities like Udaipur, Delhi, Jaipur and Mumbai.
-"by-rail": Jodhpur Railway Station indeed is among widely connection railheads in Rajasthan.
-"by-road": Similar to airways and railways, roadways too is smooth and easily accessible in this city
-"attractions": Umaid Bhavan Palace, Jaswant Thada, Mehrangarh Fort, Mandore Garden, and Balsamand Lake.
-
-"average-temperature": 25 degree celsius
-
-"restaurants": Indique restaurant, Kalinga restaurant
-
-
-
-Prashar Lake – For An Offbeat Experience
-Prashar Lake
-
-
-Located at a distance of about 49 kilometers towards the north of Mandi district, Prashar Lake is one of the rising trekking hotspots in Himachal Pradesh. Offering scintillating views of the Dhauladhar range, it is indeed one of the beautiful places in India.
-
-"best-time-to-visit": April to July and September to November
-"how-to-reach": "by-air": Kullu Manali airport is the nearest airstrip which is 73 kms away from Mandi which further happens to be the closest city to Prashar Lake located at a distance about 49 kms.
-"by-rail": Joginder Nagar is the nearest railway station to Mandi which is set at a distance of about 50 kilometers, and then one can take a cab from there and trek till Prashar Lake.
-"attractions": Mandi, Prashar Lake Trek, Three-tiered temple, Bhutnath Temple, and Barot.
-
-"average-temperature": 20 to 25 degree celsius
-
-"restaurants": Wazir Thakur restaurant
-
-
-
-Mukteshwar – The Lesser Known Gem Of Uttarakhand
-Mukteshwar
-
-
-A quaint little town in the state of Uttarakhand, Mukteshwar is one of the famous tourist places in India that is a must-visit destination for all. Other than the lush meadows and dense forests, Mukteshwar is quite popular amidst the adventure enthusiasts for outdoor sports such as rappelling, rock climbing, and more, making it one of the best places in India for adventure seekers. Also this is one of the new tourist places in India.
-
-"best-time-to-visit": October to June
-"how-to-reach": "by-air": Dehradun airport is the nearest airstrip located at a distance of 183 kms from Mukteshwar.
-"by-rail": Kathgodam railway station is the nearest railhead located at a distance of just 70 kms away.
-"by-road": One can also reach the Mukteshwar easily by-road from the neighboring cities of Delhi, Chandigarh, Shimla, and Manali.
-"attractions": Mukteshwar Temple, Sitla, Chauthi Jaali, Admire Nanda Devi, and Mukteshwar Inspection Bungalow.
-
-"average-temperature": 16 degree celsius
-
-"restaurants": Alankar restaurant, Chirping tales cafe
-
-
-
-Dhanaulti – Explore The Most Beautiful Alpine Forests
-Dhanaulti 
-
-
-Located at an elevation of about 2200 meters with Mussourie and Chamba as its bordering cities, Dhanaulti has off-lately emerged as one of the most offbeat destinations in India. For those who like to experience life at their own pace be it fast or slow, this is the perfect place to be.
-
-"best-time-to-visit": September to June
-"how-to-reach": "by-air": Jolly Grant Airport in Dehradun is the nearest airstrip to Dhanaulti located just 82 kms away.
-"by-rail": The Dehradun railway station is the nearest railhead located just 25 kms away from Dhanaulti.
-"by-road": One can also reach the town of Dhanaulti easily via road from the nearby cities of Shimla, Delhi, Shimla, Chandigarh, and Manali.
-"attractions": The Eco Park, Thangdhar Camp, Surkanda Devi Temple, and Potato Farm.
-
-"average-temperature": 20 degree celsius
-
-"restaurants": Hill view restaurant, Snowlake restaurant
-
 
 
 Varanasi – The Spiritual Capital Of India
