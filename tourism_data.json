@@ -280,60 +280,53 @@
         "attractions": "Bhrigu Lake, Rohtang Pass, Solang Valley, Hidimba Devi Temple, Manu Temple, Great Himalayan National Park, Jogini Falls, and Tibetan Monastery.",
         "average-temperature": "15.1 degree celsius",
         "restaurants": "Johnson’s cafe and hotel, Chopsticks restaurant"
+    },
+    {
+        "place": "Udaipur",
+        "state": "Rajasthan",
+        "title": "Udaipur – The Romantic City Of Lakes",
+        "description": "Udaipur is called the Venice of the East, but the different Rajasthani hues of the city surely make it stand out. The City of Lakes has to be in your list of best places to travel in India. Even though Udaipur boasts of having some of the most gracious luxury heritage hotels, it will embrace you with all the warmth even if you’re looking for budget stays. Boating, trekking, sightseeing are just some activities you may indulge in your visit to the city.",
+        "best-time-to-visit": "September to March",
+        "how-to-reach": {
+            "by-air": "Udaipur has its own airport, which indeed is well connected to different parts of the country.",
+            "by-rail": "The city’s railway station is actually among most well-connected railheads in the city",
+            "by-road": "One can easily find buses for reaching the city by-road, from cities like Jaisalmer, Jaipur and Delhi."
+        },
+        "attractions": "Lake Pichola, Jagdish Temple, City Palace, Jag Mandir, Gangaur Ghat, and Bagore ki Haweli",
+        "average-temperature": "30 degree celsius",
+        "restaurants": "Khamma Ghani restaurant, Raaj Bagh restaurant"
+    },
+    {
+        "place": "Auli",
+        "state": "Uttarakhand",
+        "title": "Auli – A Perfect Place For Ski Lovers",
+        "description": "The Skiing Capital of India, Auli is one of the most beautiful places to travel in India even if you’re not into skiing. This is the land of beautiful sunsets, and captivating views of the Himalayas, which you will never have enough of! If you’re not visiting Auli in winters for skiing, step foot here any time during the year, and you’ll witness the charm of every season at its best at one of the best places in India.",
+        "best-time-to-visit": "Auli Uttarakhand is best visited anytime during the year. However, since this destination is well-known for skiing, then it’s suggested you don’t miss Auli during the winter season (December to February).",
+        "how-to-reach": {
+            "by-air": "Jolly Grant airport of Dehradun is the nearest airport from Jolly Grant Airport.",
+            "by-rail": "If you are planning to visit Auli by train, then deboard at Haridwar railway station which is the nearest railway head from Auli.",
+            "by-road": "For travelers coming via road, you can take buses heading towards Joshimath, as this place is well connected to many towns and cities of Uttarakhand. From here, you can easily get a taxi or bus for Auli."
+        },
+        "attractions": "Kuari Pass Trek, Vishnuprayag, Kalpeshwar, Sri Hemkunt Sahib, Gorson Bugyal, Pangarchulla Peak, and more.",
+        "average-temperature": "4.3 degree celsius",
+        "restaurants": "Indra lodge and Inderlok, Saradeswari restaurant"
+    },
+    {
+        "place": "Mysore",
+        "state": "Karnataka",
+        "title": "Mysore – Of Silk, Sandalwood, And Sweets",
+        "description": "Comprising a bit of the old and new, Mysore has risen from the status of a royal city (which it still is) to be a hardcore IT hub. Renowned across the world for its gorgeous silk sarees, do not forget to treat your sweet tooth to some mouthwatering Mysore Pak on your next trip.",
+        "best-time-to-visit": "Throughout the year. However, October to March is the most pleasant to explore the city of Mysore.",
+        "how-to-reach": {
+            "by-air": "Mysore city has its own domestic airport that is well connected to the metropolitan cities of New Delhi, Mumbai, Chennai, Bengaluru, and Kolkata.",
+            "by-rail": "Travelers can deboard at the Mysore Railway Station which is located at the city centre.",
+            "by-road": "Mysore has a very good road connectivity with the nearby cities of Bangalore, Chennai, Madurai, Coimbatore, and so on."
+        },
+        "attractions": "Mysore Palace, Somnathpur, Brindavan Gardens, Mysore Zoo, Chamundeshwari Temple, Karanji Lake, St. Philomena’s Church, and GRS Fantasy Park.",
+        "average-temperature": "25 degree celsius",
+        "restaurants": "Gufha restaurant, Oyster Bay"
     }
 ]
-
-
-Udaipur – The Romantic City Of Lakes
-Udaipur honeymoon
-Udaipur is called the Venice of the East, but the different Rajasthani hues of the city surely make it stand out. The City of Lakes has to be in your list of best places to travel in India. Even though Udaipur boasts of having some of the most gracious luxury heritage hotels, it will embrace you with all the warmth even if you’re looking for budget stays. Boating, trekking, sightseeing are just some activities you may indulge in your visit to the city.
-
-"best-time-to-visit": September to March
-"how-to-reach": "by-air": Udaipur has its own airport, which indeed is well connected to different parts of the country.
-"by-rail": The city’s railway station is actually among most well-connected railheads in the city
-"by-road": One can easily find buses for reaching the city by-road, from cities like Jaisalmer, Jaipur and Delhi.
-"attractions": Lake Pichola, Jagdish Temple, City Palace, Jag Mandir, Gangaur Ghat, and Bagore ki Haweli
-
-"average-temperature": 30 degree celsius
-
-"restaurants": Khamma Ghani restaurant, Raaj Bagh restaurant
-
-
-
-Auli – A Perfect Place For Ski Lovers
-People usually visit Auli for skiing during winters
-The Skiing Capital of India, Auli is one of the most beautiful places to travel in India even if you’re not into skiing. This is the land of beautiful sunsets, and captivating views of the Himalayas, which you will never have enough of! If you’re not visiting Auli in winters for skiing, step foot here any time during the year, and you’ll witness the charm of every season at its best at one of the best places in India.
-
-"best-time-to-visit": Auli Uttarakhand is best visited anytime during the year. However, since this destination is well-known for skiing, then it’s suggested you don’t miss Auli during the winter season (December to February).
-
-"how-to-reach": "by-air": Jolly Grant airport of Dehradun is the nearest airport from Jolly Grant Airport.
-"by-rail": If you are planning to visit Auli by train, then deboard at Haridwar railway station which is the nearest railway head from Auli.
-"by-road": For travelers coming via road, you can take buses heading towards Joshimath, as this place is well connected to many towns and cities of Uttarakhand. From here, you can easily get a taxi or bus for Auli.
-"attractions": Kuari Pass Trek, Vishnuprayag, Kalpeshwar, Sri Hemkunt Sahib, Gorson Bugyal, Pangarchulla Peak, and more.
-
-"average-temperature": 4.3 degree celsius
-
-"restaurants": Indra lodge and Inderlok, Saradeswari restaurant
-
-
-
-Mysore – Of Silk, Sandalwood, And Sweets
-Mysore 
-
-
-Comprising a bit of the old and new, Mysore has risen from the status of a royal city (which it still is) to be a hardcore IT hub. Renowned across the world for its gorgeous silk sarees, do not forget to treat your sweet tooth to some mouthwatering Mysore Pak on your next trip.
-
-"best-time-to-visit": Throughout the year. However, October to March is the most pleasant to explore the city of Mysore.
-
-"how-to-reach": "by-air": Mysore city has its own domestic airport that is well connected to the metropolitan cities of New Delhi, Mumbai, Chennai, Bengaluru, and Kolkata.
-"by-rail": Travelers can deboard at the Mysore Railway Station which is located at the city centre.
-"by-road": Mysore has a very good road connectivity with the nearby cities of Bangalore, Chennai, Madurai, Coimbatore, and so on.
-"attractions": Mysore Palace, Somnathpur, Brindavan Gardens, Mysore Zoo, Chamundeshwari Temple, Karanji Lake, St. Philomena’s Church, and GRS Fantasy Park.
-
-"average-temperature": 25 degree celsius
-
-"restaurants": Gufha restaurant, Oyster Bay
-
 
 
 Valley Of Flowers – Rich In Flora And Fauna
