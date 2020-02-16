@@ -5,8 +5,9 @@
   * Please add information about relevant city, state etc.
   * Change sentences to meet grammar rules wherever neccessary.
   * This is not a final schema, there could be changes in future.
-  * Don't forget to remove the alt image info
-  
+  * Don't forget to remove the alt image info.
+  * Tags order doesn't matter.    
+
 ## Validate your JSON [here](https://jsonlint.com/)
 
 ### Standard Keys:
