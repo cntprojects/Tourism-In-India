@@ -1145,12 +1145,12 @@ var temp = [
     }
 ]
 
-for (var i = 0; i < temp.length - 1; i++) {
-    if (temp[i].state) {
-        temp[i].place = temp[i].state.toLowerCase()
-    }
+for (var i = 0; i < temp.length; i++) {
     if (temp[i].place) {
-        temp[i].state = temp[i].place.toLowerCase()
+        temp[i].place = temp[i].place.toLowerCase()
+    }
+    if (temp[i].state) {
+        temp[i].state = temp[i].state.toLowerCase()
     }
     var keys = { "best-time-to-visit": "bestTimeToVisit", "things-to-do": "thingsToDo", "how-to-reach": "howToReach", "average-temperature": "averageTemperature" }
     for (let [key, value] of Object.entries(keys)) {
