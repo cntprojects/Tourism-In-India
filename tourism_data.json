@@ -53,8 +53,9 @@
     },
     {
         "place": "andaman",
+        "state": "Andaman - Union Territory",
         "title": "Andaman – The Beach Haven",
-        "descriptiom": "Andaman has to be on your list of places to visit in India",
+        "description": "Andaman has to be on your list of places to visit in India",
         "attractions": "Cellular Jail National Memorial, Radhanagar Beach, Rajiv Gandhi Water Sports Complex in Port Blair, Mahatma Gandhi Marine National Park, Chidiya Tapu, and watersports like scuba-diving, snorkeling, parasailing",
         "bestTimeToVisit": "November to mid-May",
         "thingsToDo": [
@@ -197,7 +198,7 @@
     },
     {
         "place": "assam",
-        "state":"assam",
+        "state": "assam",
         "title": "Assam – Home Of One Horned Rhinos",
         "description": "Stay set to be overwhelmed by the sceneries, flora, and fauna of the Dibru Saikhowa National Park And this wildlife expedition is not the same as any jeep safari Instead, activities like jungle walk and boat ride are conducted during the months of November to April Cruise along the Brahmaputra river to witness the animals in their most natural habitats The surreal surroundings of this place makes Assam one of the top 25 tourist places in India ",
         "attractions": "Kaziranga National Park, Manas National Park, Kamakhya Temple, Srimanta Sankardev Kalakshetra, Assam State Museum, and more",
@@ -213,7 +214,7 @@
         "place": "rishikesh",
         "state": "uttarakhand",
         "title": "Rishikesh – The Adventure Capital Of India",
-        "descriptiom": "With bursting energy and enthusiasm, twenties is the best time to enjoy thrill and adventure, especially with your friends Travel to the adventure capital of India, Rishikesh and ride on the mystical but fierce fast flowing waters of Ganges Rishikesh is a must visit place in India if you haven’t yet crossed the age bar",
+        "description": "With bursting energy and enthusiasm, twenties is the best time to enjoy thrill and adventure, especially with your friends Travel to the adventure capital of India, Rishikesh and ride on the mystical but fierce fast flowing waters of Ganges Rishikesh is a must visit place in India if you haven’t yet crossed the age bar",
         "attractions": "Rajaji National Park, Lakshman Jhula, Neelkanth Mahadev Temple, Parmarth Niketan, Ram Jhula, Shivpuri River Rafting Point, and more",
         "restaurants": "Bistro Nirvana, The Sitting Elephant",
         "bestTimeToVisit": "September to November and February to June",
@@ -273,7 +274,7 @@
         "place": "manali",
         "state": "himachal pradesh",
         "title": "Manali – The Snowy Paradise",
-        "descripton": "The most famous resort town nestled amidst the snow-capped mountains, Manali is the popular gem in the heart of Himachal Pradesh A mesmerizing combination of nature, peace, and adventure, Manali is one of the best holiday destinations in India for all travelers",
+        "description": "The most famous resort town nestled amidst the snow-capped mountains, Manali is the popular gem in the heart of Himachal Pradesh A mesmerizing combination of nature, peace, and adventure, Manali is one of the best holiday destinations in India for all travelers",
         "attractions": "Bhrigu Lake, Rohtang Pass, Solang Valley, Hidimba Devi Temple, Manu Temple, Great Himalayan National Park, Jogini Falls, and Tibetan Monastery",
         "restaurants": "Johnson’s cafe and hotel, Chopsticks restaurant",
         "bestTimeToVisit": "October to February",
@@ -505,7 +506,7 @@
     },
     {
         "place": "agra",
-        "state": "uttar pradesh",
+        "state": "Delhi",
         "title": "Agra – The Land Of Taj",
         "description": "Tourists across the world visit India just to witness the spectacular symbol of love The majestic monument has to be on your bucket list for it’s the cultural epitome of India",
         "attractions": "Taj Mahal, Agra Fort, Tomb of I’timād-ud-Daulah, Mehtab Bagh, Jama Masjid, Guru ka Tal, Tomb of Akbar the Great, Chini Ka Rauza, Moti Masjid, Fatehpur Sikri, Dilli Gate, Great gate (Darwaza i rauza), Amar Singh Gate, Kaanch Mahal, and Sikandra",
@@ -1146,5 +1147,4 @@
         },
         "averageTemperature": "20 Degree Celsius"
     }
-]
 ]
